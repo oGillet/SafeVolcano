@@ -1,10 +1,4 @@
-import folium
-import pydeck as pdk
-import pandas as pd
 import streamlit as st
-import pandas as pd
-from numpy.random import default_rng as rng
-from streamlit_folium import st_folium
 
 # Data sources
 

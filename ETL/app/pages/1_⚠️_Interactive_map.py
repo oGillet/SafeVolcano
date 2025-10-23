@@ -2,7 +2,6 @@ import pydeck
 import pandas as pd
 import streamlit as st
 
-
 st.markdown("""
 <style>
     .main {

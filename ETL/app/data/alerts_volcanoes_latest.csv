@@ -1,16 +1,11 @@
 Name,observatory_level,aviation_level
-Bezymianny,unavailable or not collected,Yellow
 Dempo,Level 2 - Alert,unavailable or not collected Source
 Dukono,Level 2 - Alert,unavailable or not collected Source
-Etna,Yellow,Yellow
-Fuego,unavailable or not collected,unavailable or not collected Source
 Great Sitkin,Watch,Orange
 Ibu,Level 2 - Alert,unavailable or not collected Source
 Kīlauea,Watch,Orange
 Kanlaon,2 - Moderate Level of Volcanic Unrest,unavailable or not collected Source
-Karymsky,unavailable or not collected,Orange
-Krasheninnikov,unavailable or not collected,Orange
-Lewotobi,Level 4 - Caution,unavailable or not collected Source
+Lewotobi,Level 3 - Standby,unavailable or not collected Source
 Lewotolok,Level 3 - Standby,unavailable or not collected Source
 Marapi,Level 2 - Alert,unavailable or not collected Source
 Merapi,Level 3 - Standby,unavailable or not collected Source
@@ -20,23 +15,19 @@ Raung,Level 2 - Alert,unavailable or not collected Source
 Reventador,3 - Orange,unavailable or not collected Source
 Sabancaya,Orange,unavailable or not collected Source
 Sangay,2 - Yellow,unavailable or not collected Source
-Santa María,unavailable or not collected,unavailable or not collected Source
 Semeru,Level 2 - Alert,unavailable or not collected Source
-Sheveluch,unavailable or not collected,Orange
 Suwanosejima,Level 2 - Restriction on proximity to the crater,unavailable or not collected Source
-Akan,Level 2 - Restriction on proximity to the crater,unavailable or not collected Source
 Awu,Level 2 - Alert,unavailable or not collected Source
-Banda Api,Level 2 - Alert,unavailable or not collected Source
 Bulusan,1 - Low Level of Volcanic Unrest,unavailable or not collected Source
 Bur ni Telong,Level 2 - Alert,unavailable or not collected Source
 Dieng Volcanic Complex,Level 2 - Alert,unavailable or not collected Source
 Gamalama,Level 2 - Alert,unavailable or not collected Source
 Karangetang,Level 2 - Alert,unavailable or not collected Source
 Kerinci,Level 2 - Alert,unavailable or not collected Source
+Krakatau,Level 2 - Alert,unavailable or not collected Source
 Kusatsu-Shiranesan,Level 2 - Restriction on proximity to the crater,unavailable or not collected Source
-Lokon-Empung,Level 3 - Standby,unavailable or not collected Source
+Lokon-Empung,Level 2 - Alert,unavailable or not collected Source
 Mayon,1 - Abnormal,unavailable or not collected Source
-Pacaya,unavailable or not collected,unavailable or not collected Source
 Rincón de la Vieja,Level 2 - Warning,Yellow
 Ruang,Level 2 - Alert,unavailable or not collected Source
 Shishaldin,Advisory,Yellow
@@ -46,4 +37,3 @@ Soputan,Level 2 - Alert,unavailable or not collected Source
 Taal,1 - Low-Level Unrest,unavailable or not collected Source
 Tengger Caldera,Level 2 - Alert,unavailable or not collected Source
 Turrialba,Level 2 - Warning,unavailable or not collected Source
-Klyuchevskoy,unavailable or not collected,Yellow

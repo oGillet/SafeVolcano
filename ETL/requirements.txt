@@ -1,0 +1,11 @@
+os
+pytest
+beautifulsoup4
+requests
+pandas
+datetime
+argparse
+glob
+psycopg2
+dotenv
+sqlalchemy

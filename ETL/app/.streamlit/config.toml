@@ -1,0 +1,10 @@
+[client]
+showErrorDetails = "none"
+
+[theme]
+base = "dark"
+
+[theme.sidebar]
+
+# Background color of the app.
+backgroundColor = "#2c353c"

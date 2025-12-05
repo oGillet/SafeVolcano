@@ -164,7 +164,7 @@ filtered_volcanoes_unrest = df_unrest
 filtered_volcanoes = df_volcanoes
 filtered_earthquakes = df_earthquakes
 
-with open("/home/gillet/Bureau/Volcanic_ETL/ETL/app/data/images/volcano_red.png", "rb") as f:
+with open("ETL/app/data/images/volcano_red.png", "rb") as f:
     b64 = base64.b64encode(f.read()).decode()
 volcano_icon_url = f"data:image/png;base64,{b64}"
 filtered_volcanoes_erupting["icon_data"] = [{
@@ -179,7 +179,7 @@ filtered_volcanoes_erupting["tooltip_html"] = (
     "<br><b>Status:</b> " + "erupting"
 )
 
-with open("/home/gillet/Bureau/Volcanic_ETL/ETL/app/data/images/volcano_orange.png", "rb") as f:
+with open("ETL/app/data/images/volcano_orange.png", "rb") as f:
     b64 = base64.b64encode(f.read()).decode()
 volcano_icon_url = f"data:image/png;base64,{b64}"
 filtered_volcanoes_unrest["icon_data"] = [{
@@ -194,7 +194,7 @@ filtered_volcanoes_unrest["tooltip_html"] = (
     "<br><b>Status:</b> " + "unrest"
 )
 
-with open("/home/gillet/Bureau/Volcanic_ETL/ETL/app/data/images/volcano_white.png", "rb") as f:
+with open("ETL/app/data/images/volcano_white.png", "rb") as f:
     b64 = base64.b64encode(f.read()).decode()
 volcano_icon_url = f"data:image/png;base64,{b64}"
 filtered_volcanoes["icon_data"] = [{

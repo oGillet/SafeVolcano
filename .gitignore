@@ -33,4 +33,3 @@ venv/
 import_world_pop.py
 ETL/*.py
 ETL/*.txt
-ETL/app/*.txt

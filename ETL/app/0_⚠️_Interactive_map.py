@@ -73,7 +73,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.set_page_config(layout="wide")
-st.title("TEST - Active Volcanoes 🌋 and recent eartquakes ⚠️")
+st.title("Active Volcanoes 🌋 and recent eartquakes ⚠️")
 
 def depth_to_color(depth):
     # Shallow = yellow, deep = red

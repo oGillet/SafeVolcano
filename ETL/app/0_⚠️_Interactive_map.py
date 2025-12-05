@@ -145,8 +145,6 @@ all_regions_option = "All Regions"
 regions_list = [all_regions_option] + list(region)
 
 with st.form("map"):
-    col1, col2 = st.columns(2)
-
     # Layer selector
     layer_options = {
         "Show erupting, unrest and dormant": ["volcano", "volcanoes_erupting", "volcanoes_unrest"],
@@ -155,7 +153,7 @@ with st.form("map"):
         "Show only recent earthquakes": ["earthquake"],
         "Show all layers": ["all_layers"]
     }
-    layer_selected = col1.selectbox('Select layers to display', list(layer_options.keys()), index=4)
+    layer_selected = st.selectbox('Select layers to display', list(layer_options.keys()), index=4)
 
     st.form_submit_button('Update map')
 

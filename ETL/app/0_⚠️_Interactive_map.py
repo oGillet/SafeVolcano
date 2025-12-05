@@ -3,8 +3,6 @@ import pandas as pd
 import streamlit as st
 import base64
 
-from dask.array import average
-
 st.markdown("""
 <style>
     .stButton>button {

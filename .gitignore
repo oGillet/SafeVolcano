@@ -40,3 +40,9 @@ out/
 
 # Jupyter Notebook
 .ipynb_checkpoints/
+
+
+# ======================
+# Logs & Temporary Files
+# ======================
+import_world_pop.py

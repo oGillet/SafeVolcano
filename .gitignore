@@ -2,6 +2,8 @@
 # Database & SQL Files
 # ======================
 */data/
+*/cache/
+*/ELT/cache/
 
 # ======================
 # Environment & Secrets
@@ -46,3 +48,4 @@ out/
 # Logs & Temporary Files
 # ======================
 import_world_pop.py
+*/ELT/*.py

@@ -1,14 +1,14 @@
 # ======================
 # Database & SQL Files
 # ======================
-*/data/
-*/cache/
-*/ELT/cache/
+data/
+cache/
+ETL/cache/
 
 # ======================
 # Environment & Secrets
 # ======================
-*/.idea/
+.idea/
 
 # ======================
 # Airflow-Specific
@@ -18,32 +18,19 @@
 # ======================
 # Virtual Environment
 # ======================
-.venv/
-/venv/
-ENV/
-env/
-.env/
+venv/
 
 # ======================
 # IDE & Editor
 # ======================
-# VSCode
-.vscode/
-.history/
 
 # JetBrains (PyCharm, IntelliJ)
 .idea/
-*.iml
-*.ipr
-*.iws
-out/
-
-# Jupyter Notebook
-.ipynb_checkpoints/
-
 
 # ======================
 # Logs & Temporary Files
 # ======================
 import_world_pop.py
-*/ELT/*.py
+ETL/*.py
+ETL/*.txt
+ETL/app/*.txt

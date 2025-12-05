@@ -13,3 +13,30 @@
 # ======================
 */__pycache__/
 
+
+# ======================
+# Virtual Environment
+# ======================
+.venv/
+venv/
+ENV/
+env/
+.env/
+
+
+# ======================
+# IDE & Editor
+# ======================
+# VSCode
+.vscode/
+.history/
+
+# JetBrains (PyCharm, IntelliJ)
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Jupyter Notebook
+.ipynb_checkpoints/

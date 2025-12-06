@@ -102,7 +102,7 @@ COLOR_BREWER_RED_SCALE = [
 ]
 
 st.set_page_config(layout="wide")
-st.title("Disaster Risk Management: Data & Statistics 🚨")
+st.title("Risk Management: Data & Statistics 🚨")
 
 df_erupting_unrest = pd.read_csv("ETL/app/data/erupting_unrest.csv")
 df_erupting = df_erupting_unrest[df_erupting_unrest['source']=='erupting']

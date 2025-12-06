@@ -183,7 +183,7 @@ if not df_historical_eruptions_GVP.empty:
     # Visualizations
     st.markdown("### 📈 Data Visualizations")
 
-    tab1 = st.tabs(["Time Series"])
+    tab1, tab2 = st.tabs(["Time Series", ""])
 
     if not df_historical_eruptions_GVP_volcano.empty:
         with tab1:

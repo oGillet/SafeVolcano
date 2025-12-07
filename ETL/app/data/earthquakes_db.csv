@@ -1,253 +1,279 @@
 magnitude,place,infos,y_coordinate,x_coordinate,depth,date
-0.75,"7 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275151,38.811164855957,-122.821334838867,3.36999988555908,2025-12-05
-1.81,"12 km SSE of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74846342,19.1038341522217,-155.426666259766,45.1800003051758,2025-12-05
-2.5615757474522383,"50 km NE of Pedro Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xyvftf,60.04302978515625,-153.36851501464844,160.74923706054688,2025-12-05
-0.75,"15 km NE of Warner Springs, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133967,33.3791666666667,-116.529166666667,26.6,2025-12-05
-0.75,"11 km S of Idyllwild, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133959,33.6436666666667,-116.729833333333,14.15,2025-12-05
-0.59,"9 km S of Idyllwild, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133951,33.6556666666667,-116.7245,14.92,2025-12-05
-1.13,"11 km S of Idyllwild, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133943,33.6425,-116.7315,14.15,2025-12-05
-1.24,"9 km E of Alum Rock, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275146,37.3696670532227,-121.726333618164,7.55000019073486,2025-12-05
-1.59,"11 km NNW of Anza, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133935,33.6401666666667,-116.734333333333,14.09,2025-12-05
-1.54,"21 km SSE of Redway, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275136,39.953498840332,-123.712333679199,3.3199999332428,2025-12-05
-2.1,"4 km SSW of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74846312,19.1690006256104,-155.500503540039,31.4599990844727,2025-12-05
-1.5,"46 km NW of Toyah, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025xyuhbm,31.618,-104.129,4.0207,2025-12-05
-0.56,"4 km S of Idyllwild, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133919,33.7053333333333,-116.721666666667,17.7,2025-12-05
-3.3,"241 km SE of Chiniak, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rsw2,56.1759,-149.3134,10.0,2025-12-05
-2.851890547275796,"32 km W of Susitna, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xytjdo,61.52154159545898,-151.1250457763672,65.38164520263672,2025-12-05
-1.06,"6 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275131,38.8123321533203,-122.805000305176,2.22000002861023,2025-12-05
-1.33,"6 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275126,38.8126678466797,-122.805000305176,2.16000008583069,2025-12-05
-1.9,"21 km SSE of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74846292,19.033332824707,-155.374496459961,31.0499992370605,2025-12-05
-0.31,"7 km WNW of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275121,38.8346672058105,-122.796669006348,2.3199999332428,2025-12-05
-2.12,"7 km SSE of La Parguera, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr71501653,17.9145,-67.0178333333333,12.44,2025-12-05
-1.56,"13 km ENE of Ridgecrest, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133895,35.6811666666667,-117.553833333333,6.69,2025-12-05
-1.566263295446541,"30 km S of Manley Hot Springs, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xyrtwq,64.72357177734375,-150.6053009033203,17.238149642944336,2025-12-05
-0.77,"7 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275111,38.8216667175293,-122.807502746582,1.75,2025-12-05
-2.67,"49 km SW of Primo Tapia, B.C., MX",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133871,31.946,-117.326333333333,14.23,2025-12-05
-0.35,"10 km NNW of Anza, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133863,33.6443333333333,-116.697166666667,13.94,2025-12-05
-0.57,"10 km NNW of Anza, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133855,33.6391666666667,-116.701333333333,14.12,2025-12-05
-1.06,"9 km NNW of Anza, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133847,33.6331666666667,-116.7065,13.89,2025-12-05
-1.5871746099667083,"100 km S of McCarthy, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xyqnmm,60.53973770141602,-143.2091827392578,6.309584140777588,2025-12-05
-1.39,"12 km ESE of San Ardo, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275101,35.9713325500488,-120.790000915527,11.2700004577637,2025-12-05
-0.77,"0 km NNW of Loma Linda, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133831,34.0511666666667,-117.263,11.88,2025-12-05
-0.51,"1 km SSE of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275091,38.7716674804688,-122.754837036133,0.829999983310699,2025-12-05
-1.14,"7 km W of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275081,38.8266677856445,-122.799163818359,-0.639999985694885,2025-12-05
-1.86,"17 km SW of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74846267,19.3138332366943,-155.337493896484,28.1700000762939,2025-12-05
-1.7604759900673217,"10 km N of Willow, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xyoguc,61.83920288085938,-150.03421020507812,25.80699920654297,2025-12-05
-0.74,"4 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275066,38.8066673278809,-122.783996582031,0.00999999977648258,2025-12-05
-0.68,"11 km NE of Cabazon, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133815,33.984,-116.703666666667,8.32,2025-12-05
-3.12,"29 km WNW of San Antonio, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr71501638,18.6401666666667,-67.3363333333333,28.61,2025-12-05
-0.98,"2 km SW of Green Valley, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275061,38.2415008544922,-122.171997070312,5.1399998664856,2025-12-05
-0.76,"10 km WNW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275056,38.8286666870117,-122.856666564941,2.13000011444092,2025-12-05
-1.86,"15 km NE of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74846207,19.2878341674805,-155.364166259766,29.8799991607666,2025-12-05
-5.1,"159 km ESE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rsv5,52.5117,160.8102,22.295,2025-12-05
-1.08,"9 km WNW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275051,38.820499420166,-122.843002319336,2.23000001907349,2025-12-05
-0.68,"6 km NNE of Moreno Valley, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133799,33.9736666666667,-117.204333333333,12.24,2025-12-05
-1.7,"13 km SSW of Olancha, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133783,36.1733333333333,-118.058166666667,3.33,2025-12-05
-0.74,"8 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275041,38.8306655883789,-122.819831848145,1.63999998569489,2025-12-05
-1.3959480013626642,"61 km W of Tyonek, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xykfdb,61.16758346557617,-152.26510620117188,10.267610549926758,2025-12-05
-4.8,"18 km SW of Merizo Village, Guam",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rsvu,13.127,144.5721,69.625,2025-12-05
-2.13,"0 km NW of Indios, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr71501628,17.9996666666667,-66.8246666666667,14.99,2025-12-05
-2.18,"6 km SSW of Fortuna, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275036,40.5480003356934,-124.19100189209,11.6400003433228,2025-12-05
-1.78,"3 km SW of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74846147,19.1814994812012,-155.499328613281,29.8500003814697,2025-12-05
-1.21,"10 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275031,38.8393325805664,-122.838165283203,1.53999996185303,2025-12-05
-0.76,"7 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275026,38.8186683654785,-122.822830200195,2.14000010490417,2025-12-05
-5.1,"82 km W of Tobelo, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rsuv,1.6361,127.2732,129.304,2025-12-05
-3.35,"6 km SSW of Fortuna, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275021,40.5503349304199,-124.190002441406,11.3599996566772,2025-12-05
-1.66,"2 km WSW of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74846117,19.1971666666667,-155.498333333333,32.26,2025-12-05
-0.77,"8 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275006,38.8346672058105,-122.818000793457,1.95000004768372,2025-12-05
-1.2940096409722412,"9 km E of Fox, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xyhofi,64.96175384521484,-147.42236328125,5.0,2025-12-05
-1.49,"7 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275001,38.821834564209,-122.810997009277,2.57999992370605,2025-12-05
-1.0,"15 km SSW of Big Spring, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025xygqpy,32.125,-101.548,6.9547,2025-12-05
-0.72,"8 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75274991,38.8303337097168,-122.813163757324,2.09999990463257,2025-12-05
-1.6,"54 km W of Mentone, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025xygoib,31.706,-104.177,7.8943,2025-12-05
-1.35,"8 km NE of Hildale, Utah",https://earthquake.usgs.gov/earthquakes/eventpage/uu80124366,37.0578333333333,-112.900666666667,11.45,2025-12-05
-4.6,"157 km SSW of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rsup,49.3502,155.3408,62.929,2025-12-05
-1.2,"3 km N of Colton, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133727,34.0981666666667,-117.317833333333,15.42,2025-12-05
--0.1,"40 km ENE of Adak, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93927496,52.064,-176.126,1.48,2025-12-05
-3.69,"24 km ENE of Punta Cana, Dominican Republic",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025339004,18.7013,-68.2091,167.0,2025-12-05
-0.59,"33 km E of West Yellowstone, Montana",https://earthquake.usgs.gov/earthquakes/eventpage/uu80124361,44.6721666666667,-110.683166666667,5.52,2025-12-05
-1.1,"36 km S of Midland, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025xyfepl,31.676,-102.006,9.7412,2025-12-05
-1.24,"10 km SW of Niland, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133687,33.1885,-115.608333333333,3.25,2025-12-05
-0.87,"5 km ESE of Yucaipa, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133671,34.021,-116.990833333333,13.38,2025-12-05
-0.9,"27 km ENE of McKinney Acres, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025xyewqd,32.433,-102.28,8.7158,2025-12-05
-1.46,"16 km NNE of Wimer, Oregon",https://earthquake.usgs.gov/earthquakes/eventpage/uw62216951,42.660666666666664,-123.04133333333333,2.06,2025-12-05
-2.31,"7 km N of San Germán, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr71501613,18.1516666666667,-67.0485,7.89,2025-12-05
-1.8900000000000001,"5 km NNW of Winlock, Washington",https://earthquake.usgs.gov/earthquakes/eventpage/uw62216946,46.5365,-122.96016666666667,-0.15,2025-12-05
--1.13,"61 km ENE of Pedro Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93927401,59.992,-153.088666666667,0.76,2025-12-05
-1.48,"5 km SE of Home Gardens, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133591,33.8436666666667,-117.490333333333,2.28,2025-12-05
-2.2610531480684144,"78 km W of Akhiok, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xydqam,56.8558120727539,-155.4571075439453,8.88148307800293,2025-12-05
--0.06,"81 km NNW of Karluk, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93053104,58.2533333333333,-154.9255,13.95,2025-12-05
-0.94,"15 km S of Joshua Tree, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133519,33.9996666666667,-116.320333333333,9.4,2025-12-05
-0.41,"9 km SSW of Idyllwild, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133511,33.6648333333333,-116.753166666667,15.59,2025-12-05
-1.05,"8 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75274951,38.8325004577637,-122.816497802734,1.9099999666214,2025-12-05
-1.056332908982224,"21 km ENE of Minto, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xycfvw,65.24028015136719,-148.9425506591797,9.606810569763184,2025-12-05
-1.12,"6 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75274931,38.8235015869141,-122.801834106445,2.54999995231628,2025-12-05
-1.32,"19 km S of Morton, Washington",https://earthquake.usgs.gov/earthquakes/eventpage/uw62216936,46.38433333333333,-122.25966666666666,-0.92,2025-12-05
-1.8272012692923072,"59 km N of Chase, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xybndv,62.97954177856445,-149.96144104003906,78.68673706054688,2025-12-05
-4.3,"28 km WNW of Pop, Uzbekistan",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rsu5,40.9251,70.7737,22.694,2025-12-05
-0.68,"3 km SE of Lake Henshaw, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133471,33.224,-116.7455,10.86,2025-12-05
-1.46,"5 km NNW of Azusa, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133463,34.1733333333333,-117.926,0.4,2025-12-05
-1.6832478263879622,"28 km SE of Fox River, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xyasio,59.70512390136719,-150.54656982421875,50.46196365356445,2025-12-05
-1.78,"9 km NE of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74846017,19.2596666666667,-155.407166666667,33.08,2025-12-05
-5.0,"132 km S of Tambolaka, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rstu,-10.6208,119.3068,58.964,2025-12-05
-2.2,"10 km W of Forsan, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025xyajpv,32.101,-101.476,8.8135,2025-12-05
-1.74,"15 km ESE of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74846012,19.1283340454102,-155.358840942383,39.3300018310547,2025-12-05
-1.5,"10 km W of Forsan, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025xyaijo,32.103,-101.476,7.9346,2025-12-05
--0.95,"61 km ENE of Pedro Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93053099,60.015,-153.103666666667,-2.88,2025-12-05
--0.85,"65 km ENE of Pedro Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93927226,60.0451666666667,-153.0565,1.07,2025-12-05
-1.8,"10 km W of Forsan, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025xyabdz,32.101,-101.476,8.9111,2025-12-05
-0.25,"4 km W of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75274901,38.8206672668457,-122.763496398926,2.15000009536743,2025-12-05
--1.0,"63 km ENE of Pedro Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93927206,60.0138333333333,-153.068833333333,5.43,2025-12-05
-1.06,"13 km SE of Tehachapi, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133447,35.0533333333333,-118.338333333333,0.01,2025-12-05
--0.23,"67 km ENE of Pedro Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93927181,60.0438333333333,-153.016166666667,4.59,2025-12-05
-1.5,"40 km W of Mentone, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025xxzjpw,31.649,-104.021,5.946,2025-12-05
-1.24,"3 km ESE of Adams, Oregon",https://earthquake.usgs.gov/earthquakes/eventpage/uw62216886,45.758,-118.51316666666666,15.91,2025-12-05
-1.72,"19 km SE of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74845982,19.0731658935547,-155.351333618164,33.5,2025-12-05
-0.8868002687375797,"51 km ENE of Port Alsworth, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xxzbxb,60.32583236694336,-153.41522216796875,12.51127815246582,2025-12-05
-2.19425640632613,"48 km NNE of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xxyrlm,59.95676803588867,-139.432373046875,0.6313523054122925,2025-12-05
-1.0,"38 km NW of Stanton, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025xxyqyz,32.355,-102.103,7.1289,2025-12-05
-1.99,"4 km WNW of Edison, Washington",https://earthquake.usgs.gov/earthquakes/eventpage/uw62216866,48.57933333333333,-122.5015,16.01,2025-12-05
-4.6,"1 km SSE of Padong, Philippines",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rstk,18.0409,120.7602,10.0,2025-12-05
-3.07,"84 km N of Arecibo, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr71501603,19.232,-66.6396666666667,21.34,2025-12-05
-5.5,"201 km SW of José María Morelos, Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rsti,18.5993,-106.7296,8.283,2025-12-05
-4.0,"89 km NNW of San Antonio, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025339003,19.2611,-67.3546,38.0,2025-12-05
-2.6,"38 km NW of Stanton, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025xxycnx,32.356,-102.104,7.8369,2025-12-05
-4.7,Drake Passage,https://earthquake.usgs.gov/earthquakes/eventpage/us6000rstg,-60.0847,-61.9133,10.0,2025-12-05
--0.73,"59 km ENE of Pedro Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93927101,60.0105,-153.1325,0.23,2025-12-05
-1.06,"1 km N of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75274876,38.7876663208008,-122.754165649414,2.29999995231628,2025-12-05
-1.4,"10 km W of Forsan, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025xxxvdn,32.099,-101.474,9.3018,2025-12-05
-0.73,"38 km ENE of Adak, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93927096,52.0611666666667,-176.168,1.97,2025-12-05
-0.96,"14 km SSE of Big Bear Lake, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133383,34.1341666666667,-116.846166666667,9.78,2025-12-05
-0.77,"4 km WSW of Anza, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133367,33.5385,-116.7175,5.8,2025-12-05
-1.7,"10 km W of Forsan, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025xxxozi,32.099,-101.474,8.9111,2025-12-05
-0.72,"5 km WSW of Anza, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133359,33.537,-116.721166666667,6.68,2025-12-05
-1.19,"259 km W of Adak, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93927081,51.9423333333333,179.596833333333,8.94,2025-12-05
-2.256436927358255,"36 km NE of Whittier, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xxwzgo,61.01894760131836,-148.23699951171875,3.843345880508423,2025-12-05
-1.95,"0 km NE of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74845967,19.2086666666667,-155.472166666667,32.85,2025-12-05
-1.29,"6 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75274856,38.8118324279785,-122.807167053223,1.28999996185303,2025-12-05
--0.85,"77 km NW of Ninilchik, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93927041,60.5118333333333,-152.728,-1.42,2025-12-05
-4.5,Drake Passage,https://earthquake.usgs.gov/earthquakes/eventpage/us6000rst4,-60.0484,-62.2698,10.0,2025-12-05
-4.0,"25 km N of Dalhousie, India",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rst2,32.7827,75.995,20.401,2025-12-05
-1.7,"9 km W of Forsan, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025xxvjpj,32.103,-101.47,8.96,2025-12-05
-0.6,"13 km ENE of Cloverdale, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75274841,38.8426666259766,-122.87833404541,2.6800000667572,2025-12-05
-0.73,"13 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75274836,38.841667175293,-122.877830505371,2.5,2025-12-05
-0.78,"42 km N of Kernville, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133303,36.1341666666667,-118.44,7.56,2025-12-05
-2.3,"28 km SW of Kanosh, Utah",https://earthquake.usgs.gov/earthquakes/eventpage/uu80124351,38.591,-112.6225,8.08,2025-12-05
-0.32,"4 km SE of Hebgen Lake Estates, Montana",https://earthquake.usgs.gov/earthquakes/eventpage/uu80124346,44.7403333333333,-111.159166666667,10.48,2025-12-05
-0.73,"2 km WNW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75274831,38.7843322753906,-122.779335021973,4.1399998664856,2025-12-05
-0.96,"3 km SE of Hebgen Lake Estates, Montana",https://earthquake.usgs.gov/earthquakes/eventpage/uu80124341,44.742,-111.159333333333,11.15,2025-12-05
--0.51,"77 km WNW of Beluga, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93926981,61.3893333333333,-152.423333333333,0.82,2025-12-05
-1.8511469773621556,"31 km WNW of Anchor Point, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xxupgr,59.91448211669922,-152.32260131835938,73.59898376464844,2025-12-05
-1.01,"42 km WSW of Olancha, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133263,36.1391666666667,-118.442,7.03,2025-12-05
-0.0,"54 km NE of Kenny Lake, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93053094,62.0035,-144.095666666667,4.23,2025-12-05
--0.92,"60 km ENE of Pedro Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93926906,59.9938333333333,-153.1025,0.71,2025-12-05
-1.1,"8 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75274816,38.829833984375,-122.816665649414,2.17000007629395,2025-12-05
-1.8972659000482166,"31 km ESE of Minto, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xxskls,65.05342864990234,-148.71688842773438,9.695775032043457,2025-12-05
-1.48,"43 km W of Nikolski, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93053089,52.897,-169.505666666667,-1.72,2025-12-05
-4.3,"200 km SW of José María Morelos, Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rsql,18.6402,-106.7422,10.0,2025-12-05
-0.89,"8 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75274811,38.8339996337891,-122.817832946777,1.95000004768372,2025-12-05
-0.93,"9 km N of Cabazon, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133231,33.9978333333333,-116.805166666667,12.66,2025-12-05
-1.4890868878764665,"11 km ENE of Willow, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xxrepb,61.78289031982422,-149.83364868164062,5.0,2025-12-05
-1.09,"1 km NNW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75274801,38.7864990234375,-122.762336730957,1.25999999046326,2025-12-05
-4.4,"80 km SSW of Kýthira, Greece",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rsqg,35.4802,22.6441,56.923,2025-12-05
-1.53,"23 km E of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74845922,19.2018333333333,-155.253166666667,44.38,2025-12-05
-1.4,"5 km SSW of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74845917,19.1615,-155.506666666667,38.27,2025-12-05
-1.4633535976216847,"60 km E of Pedro Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xxqeoe,59.73792266845703,-153.0384979248047,106.95729064941406,2025-12-05
-1.7638163192437923,"34 km WNW of Tyonek, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xxqdat,61.1669921875,-151.7400360107422,88.406005859375,2025-12-05
-1.4419261197388238,"54 km N of Karluk, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xxpyql,58.0551872253418,-154.4270782470703,5.0,2025-12-05
-1.91,"19 km SE of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74845907,19.0611667633057,-155.367172241211,29.5100002288818,2025-12-05
-0.82,"7 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75274786,38.8246650695801,-122.804496765137,2.75999999046326,2025-12-05
-0.69,"21 km ESE of Anza, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133215,33.4845,-116.467666666667,15.62,2025-12-05
-0.66,"20 km ESE of Anza, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci10208718,33.4853333333333,-116.4735,16.74,2025-12-05
-1.59,"20 km ESE of Anza, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci10208710,33.4845,-116.4695,15.64,2025-12-05
-1.58,"20 km ESE of Anza, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133207,33.4825,-116.4735,14.77,2025-12-05
-1.77,"21 km SE of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74845902,19.0575008392334,-155.350173950195,29.9699993133545,2025-12-05
-0.93,"11 km S of Onalaska, Washington",https://earthquake.usgs.gov/earthquakes/eventpage/uw62216771,46.471833333333336,-122.70116666666667,18.86,2025-12-05
-2.18,"20 km SE of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74845892,19.0613333333333,-155.358,33.77,2025-12-05
-0.75,"6 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75274776,38.8253326416016,-122.799003601074,2.85999989509583,2025-12-05
-1.76,"14 km ESE of Leilani Estates, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74845887,19.4325008392334,-154.784164428711,13.0100002288818,2025-12-05
-1.5,"54 km S of Whites City, New Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025xxoudy,31.683,-104.342,7.6379,2025-12-05
--0.64,"64 km ENE of Pedro Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93926736,60.0558333333333,-153.078166666667,2.34,2025-12-05
-0.82,"0 km S of Borrego Springs, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133183,33.2541666666667,-116.375166666667,3.83,2025-12-05
-0.83,"0 km SW of Borrego Springs, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133175,33.2525,-116.3785,3.06,2025-12-05
-2.435698402949618,"35 km NNW of Glacier View, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xxoagc,62.0837631225586,-147.9725341796875,24.130971908569336,2025-12-05
-1.07,"6 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75274771,38.8201675415039,-122.801330566406,3.09999990463257,2025-12-05
-1.1400000000000001,"38 km NNE of Amboy, Washington",https://earthquake.usgs.gov/earthquakes/eventpage/uw62216766,46.20516666666666,-122.1925,6.45,2025-12-05
--0.68,"62 km ENE of Pedro Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93926691,60.0091666666667,-153.075666666667,0.09,2025-12-05
-1.6,"5 km WNW of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75274761,38.8343315124512,-122.782836914062,2.00999999046326,2025-12-05
-1.4841109853327703,"20 km N of Fishhook, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xxmrol,61.92363739013672,-149.21372985839844,0.5377913117408752,2025-12-05
-0.78,"6 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75274751,38.8194999694824,-122.802001953125,2.47000002861023,2025-12-05
-0.74,"3 km E of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75274746,38.7733345031738,-122.724502563477,1.78999996185303,2025-12-05
-3.39,"80 km N of Arecibo, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr71501578,19.194,-66.643,31.58,2025-12-05
-0.78,"4 km NNW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75274741,38.8036651611328,-122.778503417969,3.14000010490417,2025-12-05
-2.02,"19 km SE of Pinnacles, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75274736,36.4036674499512,-120.994667053223,8.97999954223633,2025-12-05
-0.71,"2 km WNW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75274731,38.7861671447754,-122.774002075195,2.04999995231628,2025-12-05
--0.89,"65 km ENE of Pedro Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93926556,60.0568333333333,-153.069833333333,0.83,2025-12-05
--0.79,"63 km ENE of Pedro Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93926546,60.0438333333333,-153.086,-2.33,2025-12-05
-0.51,"9 km E of Anza, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133143,33.5588333333333,-116.574333333333,13.79,2025-12-05
--1.1,"64 km ENE of Pedro Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93926531,60.0418333333333,-153.079833333333,-2.11,2025-12-05
-0.57,"16 km NE of Borrego Springs, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133135,33.3393333333333,-116.239166666667,9.56,2025-12-05
-1.6,"46 km NW of Toyah, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025xxjstz,31.626,-104.115,6.2152,2025-12-05
-1.57187480874756,"48 km NW of Tatitlek, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xxjpol,61.19223022460938,-147.26223754882812,26.57362937927246,2025-12-05
-4.8,"155 km E of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/usd00144g7,52.8725,160.9207,10.0,2025-12-05
-2.28,"11 km SE of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74845842,19.1186666666667,-155.417333333333,38.9,2025-12-05
-1.8354766312644708,"31 km NW of Valdez, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xxjhug,61.31230545043945,-146.8023223876953,17.530969619750977,2025-12-05
-2.72,"11 km E of Naalehu, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74845837,19.0553333333333,-155.4685,36.78,2025-12-05
-2.27,"10 km E of Naalehu, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74845832,19.0658333333333,-155.476,40.76,2025-12-05
-1.9711274171010302,"32 km N of Larsen Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xxjbcx,57.83273315429688,-153.94683837890625,29.20820999145508,2025-12-05
-1.93,"6 km ESE of Naalehu, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74845827,19.0495,-155.522666666667,45.51,2025-12-05
-4.9,North Atlantic Ocean,https://earthquake.usgs.gov/earthquakes/eventpage/usd00144g2,6.7118,-46.3789,10.0,2025-12-05
-0.7,"36 km SSE of Midland, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025xxiyrr,31.678,-101.969,6.4209,2025-12-05
-1.14,"21 km NNW of Tehachapi, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133127,35.314,-118.508166666667,7.77,2025-12-05
--0.86,"63 km ENE of Pedro Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93926446,60.0401666666667,-153.086333333333,-1.83,2025-12-05
-0.81,"16 km ENE of Ridgecrest, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133119,35.6535,-117.507666666667,8.94,2025-12-05
-0.56,"21 km ESE of Anza, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133111,33.4781666666667,-116.4655,10.77,2025-12-05
-1.8567643988303544,"15 km W of Susitna North, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xxhjed,62.14350128173828,-150.1441650390625,83.62440490722656,2025-12-05
-1.56,"65 km NE of Nikolski, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93926396,53.2971666666667,-168.082833333333,20.89,2025-12-05
-5.5,Drake Passage,https://earthquake.usgs.gov/earthquakes/eventpage/us7000rfr9,-60.18,-62.0355,10.0,2025-12-05
-0.75,"9 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75274716,38.8271675109863,-122.832000732422,2.13000011444092,2025-12-05
-1.21,"5 km N of Cabazon, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133103,33.96,-116.78,15.21,2025-12-05
-3.78,"22 km SE of Boca de Yuma, Dominican Republic",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025339002,18.2318,-68.4658,88.0,2025-12-05
-1.07,"3 km SSW of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75274711,38.7988319396973,-122.734664916992,1.97000002861023,2025-12-05
-1.4475442148179873,"121 km NW of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xxfxyt,60.28365325927734,-141.3220977783203,18.61971664428711,2025-12-05
--0.68,"66 km ENE of Pedro Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93926341,60.0651666666667,-153.052833333333,0.83,2025-12-05
-1.9442135978506259,"70 km E of Cantwell, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xxflyl,63.37509536743164,-147.55093383789062,59.72452163696289,2025-12-05
-1.51,"2 km NNE of Millbrae, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75274706,37.6155014038086,-122.376167297363,11.6199998855591,2025-12-05
--0.47,"63 km ENE of Pedro Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93926316,60.0408333333333,-153.088166666667,0.59,2025-12-05
-1.2978963685633922,"49 km SE of King Salmon, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xxextv,58.38644790649414,-156.04905700683594,3.721334934234619,2025-12-05
-1.8196409057721452,"119 km NW of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xxeuwd,60.31825256347656,-141.22213745117188,12.34128475189209,2025-12-05
-0.52,"7 km SSE of Julian, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133095,33.0236666666667,-116.576333333333,12.26,2025-12-05
-1.72,"2 km SSW of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74845797,19.1831665039062,-155.484832763672,35.8899993896484,2025-12-05
-4.4,"4 km E of Fuengirola, Spain",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rfrj,36.5331,-4.5749,56.634,2025-12-05
-0.5,"19 km SE of Midland, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025xxemkc,31.876,-101.926,2.9541,2025-12-05
-0.35,"9 km SW of Idyllwild, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133087,33.6848333333333,-116.786666666667,17.3,2025-12-05
-1.27,"19 km S of Las Flores, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133079,33.8698333333333,-118.634833333333,12.7,2025-12-05
-1.22,"6 km ENE of Calumet, Oklahoma",https://earthquake.usgs.gov/earthquakes/eventpage/ok2025xugn,35.61633333,-98.051,6.13,2025-12-05
-3.84,"4 km ENE of Guaymate, Dominican Republic",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025339001,18.596,-68.9405,124.0,2025-12-05
-1.7,"7 km SW of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74845787,19.3873333333333,-155.281833333333,1.63,2025-12-05
-0.92,"12 km E of Kanarraville, Utah",https://earthquake.usgs.gov/earthquakes/eventpage/uu80005773,37.5556666666667,-113.045,5.77,2025-12-05
--0.79,"64 km ENE of Pedro Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93926266,60.0458333333333,-153.075666666667,0.23,2025-12-05
-0.38,"2 km NE of Anza, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133071,33.5666666666667,-116.654666666667,10.33,2025-12-05
-0.8,"14 km N of Borrego Springs, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133063,33.3861666666667,-116.374166666667,3.15,2025-12-05
-0.79,"5 km ENE of Los Angeles, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133055,34.074,-118.2025,11.23,2025-12-05
-0.77,"4 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75274691,38.8048324584961,-122.780502319336,3.00999999046326,2025-12-05
-1.2,"7 km W of Rotan, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025xxcudh,32.865,-100.548,8.7158,2025-12-05
-0.98,"3 km ENE of Colton, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133047,34.082,-117.2805,13.64,2025-12-05
-2.8158875580104463,"93 km W of Akhiok, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xxcspq,56.84213638305664,-155.68814086914062,12.975783348083496,2025-12-05
-1.85,"6 km W of Templeton, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75274686,35.5536651611328,-120.777336120605,4.6399998664856,2025-12-05
-2.1109113971325084,"27 km SE of Susitna North, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xxcrtm,61.99721908569336,-149.463134765625,28.547657012939453,2025-12-05
-1.1,"16 km WNW of Westbrook, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025xxclpd,32.427,-101.172,7.0068,2025-12-05
-1.12,"13 km ENE of East Cathlamet, Washington",https://earthquake.usgs.gov/earthquakes/eventpage/uw62216761,46.24333333333333,-123.208,16.38,2025-12-05
-0.5,"29 km WSW of Ackerly, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025xxcftz,32.469,-102.021,7.7881,2025-12-05
-4.1,"42 km SW of San Pedro de Atacama, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rfqr,-23.1379,-68.5316,110.508,2025-12-05
-1.92,"20 km S of Fern Forest, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74845767,19.282,-155.102,36.42,2025-12-05
-0.94,"10 km WNW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75274681,38.8248329162598,-122.85717010498,2.3199999332428,2025-12-05
-4.3,"173 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rfqp,51.5265,159.5032,37.702,2025-12-05
-0.51,"5 km WNW of Salt Lake City, Utah",https://earthquake.usgs.gov/earthquakes/eventpage/uu80005778,40.7788333333333,-111.951,7.61,2025-12-05
-1.73,"4 km SW of Greenville, California",https://earthquake.usgs.gov/earthquakes/eventpage/nn00908156,40.1046,-120.9869,0.2026,2025-12-05
-2.032551158960278,"97 km W of Akhiok, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xxayum,56.82477951049805,-155.7598419189453,16.5634708404541,2025-12-05
-0.87,"10 km ENE of Coso Junction, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41133031,36.0868333333333,-117.846666666667,2.35,2025-12-05
-1.9150469267516923,"22 km NW of Petersville, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xxalde,62.6610336303711,-151.0217742919922,87.97451782226562,2025-12-05
-1.2543348645758556,"135 km SSE of McCarthy, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xxamct,60.41392517089844,-141.55804443359375,5.0,2025-12-05
-0.34,"23 km ENE of Ashford, Washington",https://earthquake.usgs.gov/earthquakes/eventpage/uw62216756,46.854166666666664,-121.75866666666667,2.27,2025-12-05
-0.44,"6 km WNW of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75274676,38.8349990844727,-122.785835266113,5.40999984741211,2025-12-05
+0.94,"15 km NE of Little Lake, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41134583,36.0228333333333,-117.776,1.61,2025-12-06
+1.08,"10 km N of Santa Paula, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41134575,34.4461666666667,-119.064833333333,4.97,2025-12-06
+0.8,"15 km NE of Little Lake, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41134567,36.0221666666667,-117.776333333333,1.56,2025-12-06
+0.68,"15 km NE of Little Lake, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41134559,36.0228333333333,-117.776,1.59,2025-12-06
+2.5466951918147127,"47 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025yatmug,59.97210693359375,-139.70556640625,28.02442932128906,2025-12-06
+3.8,"98 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt3n,60.4273,-139.7262,10.348,2025-12-06
+3.170536075357049,"108 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025yaszlz,60.5093765258789,-139.9676055908203,5.978537559509277,2025-12-06
+3.4662420512345955,"267 km WSW of Adak, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025yaswga,51.32410049438477,179.61119079589844,45.18247222900391,2025-12-06
+1.37,"5 km SSW of Coalinga, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275616,36.0966682434082,-120.385833740234,3.25,2025-12-06
+3.4,"86 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt3h,60.3214,-139.6255,10.0,2025-12-06
+2.6473538929433715,"113 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025yasjsx,60.5608024597168,-139.91986083984375,2.1305437088012695,2025-12-06
+1.77,"2 km SW of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74846862,19.4235000610352,-155.251495361328,2.04999995231628,2025-12-06
+4.6,"104 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt3f,60.4776,-139.9505,10.0,2025-12-06
+3.6451285668649254,"70 km W of Nanwalek, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025yartfc,59.3127326965332,-153.1643524169922,76.81039428710938,2025-12-06
+0.84,"13 km NE of Little Lake, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41134543,36.0168333333333,-117.796,1.19,2025-12-06
+0.29,"5 km W of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275606,38.8278350830078,-122.78466796875,1.33000004291534,2025-12-06
+1.4,"17 km NW of Midland, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025yarljw,32.106,-102.209,4.7666,2025-12-06
+3.7351905044768627,"108 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025yarixi,60.51335906982422,-139.97357177734375,5.968555450439453,2025-12-06
+0.72,"2 km W of Irwindale, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41134535,34.1095,-117.9555,13.37,2025-12-06
+1.08,"7 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275601,38.8238334655762,-122.805335998535,2.61999988555908,2025-12-06
+3.0,"30 km SW of Pole Ojea, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr71501728,17.811,-67.4163333333333,22.58,2025-12-06
+1.34,"7 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275596,38.8246650695801,-122.8056640625,2.21000003814697,2025-12-06
+3.63017920327641,"134 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025yaqxnr,60.74593353271484,-139.96859741210938,7.320088863372803,2025-12-06
+1.6175057577217649,"52 km NW of Stevens Village, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025yaqlxk,66.29052734375,-150.0179901123047,13.142528533935547,2025-12-06
+2.01,"10 km NE of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74846822,19.2600002288818,-155.396835327148,30.4799995422363,2025-12-06
+1.37,"8 km WSW of Cotati, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275586,38.3026657104492,-122.790496826172,4.90999984741211,2025-12-06
+2.019668852357789,"91 km E of McCarthy, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025yaqimc,61.3838119506836,-141.20611572265625,5.0,2025-12-06
+1.22,"1 km NNW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275581,38.7901649475098,-122.760665893555,0.389999985694885,2025-12-06
+2.073960526569591,"86 km NNW of Karluk, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025yaqesl,58.31890869140625,-154.8003387451172,11.962894439697266,2025-12-06
+3.666410134366602,"106 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025yaqcho,60.50574493408203,-139.82928466796875,4.559610366821289,2025-12-06
+2.616819061654407,"110 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025yaqbhr,60.5275993347168,-140.05328369140625,7.181915760040283,2025-12-06
+3.281651505885595,"93 km NNE of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025yapykm,60.36557006835938,-139.39837646484375,1.0173054933547974,2025-12-06
+3.4438272529873166,"91 km NNE of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025yaprkc,60.34400177001953,-139.3629150390625,1.8908114433288574,2025-12-06
+3.1,"101 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt2q,60.451,-139.8693,10.0,2025-12-06
+3.0,"107 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt2p,60.5062,-139.9736,10.0,2025-12-06
+3.266147897157819,"89 km NNE of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025yaphid,60.33599090576172,-139.39437866210938,5.0,2025-12-06
+1.51,"8 km W of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275566,38.8331680297852,-122.811164855957,2.02999997138977,2025-12-06
+4.5,"112 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt2n,52.0732,159.2701,73.242,2025-12-06
+4.1,"118 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt2i,60.5918,-140.131,10.0,2025-12-06
+3.526084029108035,"116 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025yaoruo,60.58598327636719,-140.00299072265625,5.0,2025-12-06
+3.3,"111 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt2g,60.5392,-140.0378,10.0,2025-12-06
+3.4,"97 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt2f,60.418,-139.6329,10.0,2025-12-06
+2.429393054542513,"78 km NNW of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025yaobff,60.22961807250977,-140.05953979492188,5.688591480255127,2025-12-06
+1.98,"9 km SW of Guánica, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr71501723,17.915,-66.9708333333333,12.6,2025-12-06
+1.1,"17 km NW of Midland, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025yanqpz,32.107,-102.216,3.1241,2025-12-06
+2.09,"8 km ENE of Pinnacles, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275561,36.5574989318848,-121.060333251953,7.05000019073486,2025-12-06
+1.6,"46 km NW of Toyah, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025yanqcv,31.62,-104.135,5.2646,2025-12-06
+1.0,"16 km ENE of Gardendale, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025yanpme,32.099,-102.231,4.7826,2025-12-06
+3.3,"96 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt2c,60.4159,-139.7232,10.0,2025-12-06
+2.8,"95 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt2b,60.4048,-139.8033,10.0,2025-12-06
+1.37,"4 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275556,38.7993316650391,-122.790664672852,-0.879999995231628,2025-12-06
+3.3,"112 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt29,60.5365,-140.0944,10.0,2025-12-06
+1.3,"7 km WNW of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275551,38.8361663818359,-122.799667358398,2.03999996185303,2025-12-06
+0.22,"5 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275546,38.8158340454102,-122.790664672852,5.3899998664856,2025-12-06
+2.502684079083451,"8 km NNE of Nikolaevsk, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025yamxmh,59.88034057617188,-151.56590270996094,69.52642059326172,2025-12-06
+5.2,"221 km WSW of Tual, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt26,-6.6118,131.0065,35.0,2025-12-06
+3.9,"122 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt25,60.636,-139.9576,5.0,2025-12-06
+1.17,"22 km ESE of Little Lake, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41134519,35.8695,-117.675333333333,4.73,2025-12-06
+2.21,"5 km NNE of El Sauzal, B.C., MX",https://earthquake.usgs.gov/earthquakes/eventpage/ci41134511,31.9445,-116.6715,28.63,2025-12-06
+0.71,"7 km W of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275536,38.8301658630371,-122.804832458496,1.38999998569489,2025-12-06
+1.29,"7 km W of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275531,38.8289985656738,-122.804496765137,1.50999999046326,2025-12-06
+3.6,"110 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt23,60.5269,-139.9681,5.0,2025-12-06
+3.4,"100 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt21,60.4442,-139.4747,5.0,2025-12-06
+1.93,"35 km WSW of Kailua-Kona, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74846817,19.4793338775635,-156.296829223633,8.1899995803833,2025-12-06
+4.6,south of the Fiji Islands,https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt22,-23.6596,-179.9638,545.077,2025-12-06
+4.3,"120 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt20,60.6269,-139.9415,5.0,2025-12-06
+5.0,"112 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt1y,60.5391,-140.0511,5.0,2025-12-06
+4.1,"101 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt1x,60.4532,-139.5297,5.0,2025-12-06
+4.7,"66 km SSW of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt1w,50.1409,155.7171,99.662,2025-12-06
+1.22,"8 km N of Santa Paula, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41134495,34.4241666666667,-119.054666666667,8.38,2025-12-06
+3.2,"112 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt1v,60.5452,-140.0648,5.0,2025-12-06
+3.0,"117 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt1t,60.5886,-140.0,5.0,2025-12-06
+1.25,"23 km SW of Ocotillo Wells, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41134487,32.9841666666667,-116.296166666667,7.35,2025-12-06
+0.83,"9 km NW of San Jacinto, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41134479,33.8336666666667,-117.036833333333,15.55,2025-12-06
+2.555431550544126,"85 km W of Karluk, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025yakevp,57.67498397827148,-155.879638671875,101.66373443603516,2025-12-06
+3.2,"102 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt1p,60.4659,-139.5929,5.0,2025-12-06
+0.44,"10 km SW of Idyllwild, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41134471,33.6906666666667,-116.804,10.53,2025-12-06
+0.75,"9 km WNW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275521,38.821834564209,-122.844497680664,2.20000004768372,2025-12-06
+4.6,"113 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt1m,60.5544,-139.9896,5.0,2025-12-06
+3.3,"116 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt1n,60.5885,-139.8533,5.0,2025-12-06
+3.8577700676206756,"63 km W of Anchor Point, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025yajlxb,59.82755661010742,-152.96499633789062,101.70996856689453,2025-12-06
+3.8,"113 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt1l,60.5459,-140.0806,5.0,2025-12-06
+3.5,"113 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt1r,60.5672,-139.7407,5.0,2025-12-06
+3.9,"101 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt1j,60.4491,-139.5054,5.0,2025-12-06
+3.8,"115 km NNW of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt1i,60.5577,-140.171,5.0,2025-12-06
+1.3,"16 km SSE of Mammoth Lakes, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275511,37.5108337402344,-118.90283203125,4.03000020980835,2025-12-06
+3.7,"102 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt1h,60.4623,-139.6462,5.0,2025-12-06
+1.08,"6 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275501,38.8190002441406,-122.801666259766,3.05999994277954,2025-12-06
+2.9,"112 km NNW of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt1g,60.5403,-140.1254,5.0,2025-12-06
+3.1,"100 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt1f,60.445,-139.634,5.0,2025-12-06
+1.84,"8 km N of Santa Paula, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41134455,34.4265,-119.054166666667,9.61,2025-12-06
+0.66,"22 km N of Searles Valley, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41134447,35.9628333333333,-117.384166666667,2.45,2025-12-06
+4.6,"115 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt1d,60.5631,-140.0949,5.0,2025-12-06
+3.5,"113 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt1c,60.567,-139.8124,5.0,2025-12-06
+0.82,"7 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275491,38.8269996643066,-122.800331115723,3.00999999046326,2025-12-06
+0.69,"4 km E of Lake Arrowhead, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41134439,34.2456666666667,-117.147333333333,2.53,2025-12-06
+2.71,"7 km SW of Markleeville, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275486,38.650333404541,-119.853332519531,-1.72000002861023,2025-12-06
+3.6,"96 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt17,60.4141,-139.6413,5.0,2025-12-06
+2.1,"31 km NW of Toyah, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025yahhxb,31.513,-104.027,8.0096,2025-12-06
+3.2,"97 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt12,60.4255,-139.7059,5.0,2025-12-06
+5.1,"287 km SSE of Alo, Wallis and Futuna",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt18,-16.7832,-177.2777,10.0,2025-12-06
+3.6,"114 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt11,60.5713,-139.8648,5.0,2025-12-06
+0.8,"8 km WNW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275481,38.7956657409668,-122.851501464844,13.789999961853,2025-12-06
+4.2,"96 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt0z,60.4154,-139.6487,5.0,2025-12-06
+1.08,"8 km W of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275471,38.8331680297852,-122.811996459961,2.0,2025-12-06
+2.8,"103 km NNW of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt0x,60.4561,-140.0835,5.0,2025-12-06
+3.1,"112 km NNW of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt10,60.5347,-140.1461,5.0,2025-12-06
+3.1,"110 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt0t,60.5263,-140.0703,5.0,2025-12-06
+4.6,"113 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt0p,60.5662,-139.8988,5.0,2025-12-06
+2.9,"112 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt0y,60.5433,-140.0573,5.0,2025-12-06
+0.96,"11 km E of Palomar Observatory, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41134423,33.34,-116.75,14.07,2025-12-06
+2.8,"90 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt0m,60.3464,-139.4738,5.0,2025-12-06
+3.1,"104 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt0k,60.473,-140.0138,5.0,2025-12-06
+2.8,"96 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt0j,60.4093,-139.7354,5.0,2025-12-06
+2.49,"4 km SW of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74846752,19.416166305542,-155.26416015625,0.0299999993294477,2025-12-06
+3.2,"80 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt0g,60.2666,-139.8239,10.0,2025-12-06
+3.3,"95 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt0f,60.4013,-139.631,7.433,2025-12-06
+0.77,"4 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275461,38.8074989318848,-122.783500671387,2.29999995231628,2025-12-06
+2.906578657069939,"115 km SE of McCarthy, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025yaeggj,60.70819091796875,-141.38916015625,5.0,2025-12-06
+1.75,"9 km SSW of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74846747,19.1253337860107,-155.514007568359,35.4199981689453,2025-12-06
+4.5,"71 km E of Nichinan, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt0a,31.5969,132.1204,33.194,2025-12-06
+3.4,"113 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt08,60.5626,-139.9307,10.0,2025-12-06
+0.82,"9 km WNW of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275446,38.84716796875,-122.81583404541,1.74000000953674,2025-12-06
+1.16,"8 km WNW of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275441,38.8456649780273,-122.814834594727,1.73000001907349,2025-12-06
+3.2,"103 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt0s,60.4704,-139.9125,10.0,2025-12-06
+1.8,"10 km W of Forsan, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025yadmwm,32.101,-101.48,9.0088,2025-12-06
+4.9,"112 km E of Yamada, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt07,39.5515,143.2546,32.196,2025-12-06
+4.3,"103 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt04,60.4753,-139.6341,10.0,2025-12-06
+3.2,"92 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt03,60.3675,-139.5389,5.772,2025-12-06
+3.0,"98 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt02,60.4296,-139.8158,10.0,2025-12-06
+0.71,"19 km ESE of Anza, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41134415,33.4941666666667,-116.484833333333,12.5,2025-12-06
+3.684062407576428,"103 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025yacgxe,60.47467041015625,-139.62826538085938,5.0,2025-12-06
+4.2,"99 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rszu,60.4438,-139.6843,10.0,2025-12-06
+2.3,"2 km NW of Girard, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025yabzhr,33.377,-100.678,5.0,2025-12-06
+2.65,"9 km SE of Loco, Oklahoma",https://earthquake.usgs.gov/earthquakes/eventpage/ok2025xxec,34.27479935,-97.60564423,5.0,2025-12-06
+1.88,"29 km WNW of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74846732,19.4981670379639,-155.505828857422,-0.819999992847443,2025-12-06
+0.76,"7 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275426,38.8245010375977,-122.808670043945,1.32000005245209,2025-12-06
+3.457216312636934,"116 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025yabnli,60.58026885986328,-139.98605346679688,5.0,2025-12-06
+1.79,"8 km NE of Naalehu, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74846727,19.1291675567627,-155.530334472656,35.4199981689453,2025-12-06
+3.515365126895141,"109 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025yabiwr,60.52223587036133,-139.96554565429688,9.222793579101562,2025-12-06
+1.75,"15 km WSW of Petrolia, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275421,40.2924995422363,-124.457000732422,18.2900009155273,2025-12-06
+3.45932453399737,"92 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025yabgqi,60.35762023925781,-139.4132537841797,5.0,2025-12-06
+4.3,"107 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rszl,60.5069,-139.9325,10.0,2025-12-06
+4.0,"115 km NNW of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rszq,60.5553,-140.2303,10.0,2025-12-06
+1.23,"2 km NNW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275416,38.795166015625,-122.764999389648,3.11999988555908,2025-12-06
+1.4839981797482844,"28 km SSW of Ester, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025yaazpq,64.63016510009766,-148.34796142578125,8.670792579650879,2025-12-06
+4.2,"105 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rszk,60.4761,-140.0858,10.0,2025-12-06
+3.4482876686216573,"98 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025yaawfi,60.4266586303711,-139.50950622558594,0.40659594535827637,2025-12-06
+3.491980725248386,"105 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025yaarie,60.48973083496094,-139.81719970703125,2.970639705657959,2025-12-06
+3.873412705545208,"100 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025yaapnb,60.44376373291016,-139.86004638671875,0.15935195982456207,2025-12-06
+1.18,"16 km S of Maricopa, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41134383,34.916,-119.404333333333,9.65,2025-12-06
+3.4424825222212876,"111 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025yaanvd,60.54673385620117,-139.64630126953125,3.276115894317627,2025-12-06
+3.910192712356583,"100 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025yaalcm,60.45184326171875,-139.63626098632812,2.647179126739502,2025-12-06
+4.1098889441339574,"101 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025yaainu,60.45288467407227,-139.56649780273438,9.807150840759277,2025-12-06
+4.0180420794225915,"88 km NNE of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025yaaggd,60.32456970214844,-139.38897705078125,10.0,2025-12-06
+2.3,"1 km NW of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74846707,19.2121658325195,-155.485504150391,28.5699996948242,2025-12-06
+1.22,"13 km NE of Carpinteria, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41134375,34.4786666666667,-119.416666666667,1.59,2025-12-06
+4.236734973946455,"104 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025yaablm,60.47931671142578,-139.88369750976562,4.1140522956848145,2025-12-06
+3.4709960502622916,"113 km NNW of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xzzzcd,60.54470825195312,-140.12442016601562,2.0,2025-12-06
+3.4763050192849456,"115 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xzzuxt,60.58662414550781,-139.63009643554688,2.0,2025-12-06
+0.9,"19 km N of Borrego Springs, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41134367,33.4298333333333,-116.353333333333,4.8,2025-12-06
+3.501454097434796,"92 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xzzoaz,60.37170791625977,-139.58009338378906,2.0,2025-12-06
+3.848376535977708,"100 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xzzmvk,60.4480972290039,-139.67832946777344,4.04200553894043,2025-12-06
+0.3,"21 km NNE of Midland, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025xzzekc,32.183,-102.01,7.6787,2025-12-06
+3.8,"92 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rsyt,60.376,-139.6692,10.0,2025-12-06
+3.715897117585873,"88 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xzyzlh,60.33104705810547,-139.43853759765625,1.2075570821762085,2025-12-06
+3.3903201842352346,"120 km NNW of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xzyxmi,60.6037368774414,-140.1451416015625,2.0,2025-12-06
+0.7,"7 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275406,38.8129997253418,-122.823669433594,4.23000001907349,2025-12-06
+1.3,"10 km WNW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275396,38.8283348083496,-122.856163024902,2.49000000953674,2025-12-06
+3.8567184794768794,"97 km NNE of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xzypuz,60.40532684326172,-139.38450622558594,5.0,2025-12-06
+2.6,"11 km NNW of Kermit, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025xzyoyn,31.954,-103.14,4.824,2025-12-06
+3.9,"97 km NNW of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rsym,60.3932,-140.1359,10.0,2025-12-06
+3.317454542892043,"112 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xzyocu,60.55133438110352,-139.8990478515625,5.200915813446045,2025-12-06
+2.24,"13 km SE of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74846697,19.1228332519531,-155.375671386719,28.7099990844727,2025-12-06
+3.7835218274024007,"104 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xzynbr,60.48596572875977,-139.61407470703125,5.0,2025-12-06
+4.067319564950668,"103 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xzyexr,60.47387313842773,-139.5734405517578,10.488147735595703,2025-12-06
+3.9,"97 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rsyi,60.4157,-139.5522,10.0,2025-12-06
+0.7,"7 km WNW of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275386,38.8346672058105,-122.798500061035,2.02999997138977,2025-12-06
+3.481434966040332,"100 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xzxzwk,60.44720077514648,-139.52020263671875,5.0,2025-12-06
+3.708140329137857,"110 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xzxyot,60.53444290161133,-139.7947235107422,9.826391220092773,2025-12-06
+0.72,"3 km NNW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275381,38.7980003356934,-122.771667480469,1.32000005245209,2025-12-06
+3.6,"84 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rsyf,60.3073,-139.6126,10.0,2025-12-06
+0.47,"8 km W of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275376,38.8351669311523,-122.810501098633,3.09999990463257,2025-12-06
+3.3,"88 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rsz1,60.3336,-139.4682,5.0,2025-12-06
+3.8,"100 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rsyc,60.4437,-139.4801,6.199,2025-12-06
+2.54,"7 km S of Boonville, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275366,38.9418334960938,-123.359832763672,3.75999999046326,2025-12-06
+3.9,"119 km NNW of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rsyx,60.6006,-140.1439,5.304,2025-12-06
+2.0,"54 km NW of Toyah, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025xzxdgy,31.649,-104.216,4.407,2025-12-06
+4.3,"113 km NNW of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rsy9,60.5232,-140.3364,10.0,2025-12-06
+3.751367683178588,"14 km SE of Tyonek, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xzxbnq,60.96248245239258,-150.97157287597656,51.38796997070312,2025-12-06
+4.3,"108 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rsz6,60.5176,-139.9221,5.0,2025-12-06
+4.1,"94 km NNE of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rsyw,60.3759,-139.3652,4.764,2025-12-06
+4.2,"104 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rsyv,60.4806,-139.8402,10.0,2025-12-06
+4.320725591448362,"108 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xzwwbw,60.51767349243164,-139.85060119628906,5.0,2025-12-06
+4.568427582002582,"89 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xzwusa,60.33671188354492,-139.44163513183594,5.0,2025-12-06
+4.5,"86 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rsyj,60.3148,-139.5671,10.0,2025-12-06
+1.0,"8 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275361,38.8330001831055,-122.818168640137,1.62999999523163,2025-12-06
+5.087666993181132,"88 km NNE of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xzwrbu,60.31888580322266,-139.35723876953125,10.75879955291748,2025-12-06
+4.689296016024081,"96 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xzwozj,60.40229034423828,-139.47433471679688,3.11744499206543,2025-12-06
+4.8,"11 km E of Chalandrítsa, Greece",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rsy5,38.1037,21.9147,12.446,2025-12-06
+5.0,"73 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rsy4,60.2082,-139.6043,10.0,2025-12-06
+0.9,"9 km W of Forsan, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025xzwkbn,32.099,-101.47,3.3653,2025-12-06
+1.12,"5 km SE of Ontario, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41134343,34.0225,-117.590333333333,5.16,2025-12-06
+7.0,2025 Hubbard Glacier Earthquake,https://earthquake.usgs.gov/earthquakes/eventpage/us6000rsy1,60.3586,-139.5457,10.0,2025-12-06
+0.8,"6 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275351,38.8235015869141,-122.797332763672,2.75,2025-12-06
+0.99,"8 km E of Coso Junction, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41134327,36.0401666666667,-117.859166666667,1.96,2025-12-06
+2.18,"3 km NE of Yauco, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr71501703,18.0583333333333,-66.8258333333333,18.94,2025-12-06
+1.2,"4 km S of Fall City, Washington",https://earthquake.usgs.gov/earthquakes/eventpage/uw62217171,47.528333333333336,-121.9,10.13,2025-12-06
+1.41,"5 km S of Lynden, Washington",https://earthquake.usgs.gov/earthquakes/eventpage/uw62217166,48.89366666666667,-122.46783333333333,13.61,2025-12-06
+0.54,"6 km WNW of Palomar Observatory, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41134303,33.3771666666667,-116.928166666667,6.24,2025-12-06
+2.554500921094081,"70 km SE of Cantwell, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xztfxd,62.95805740356445,-147.9368133544922,61.86042785644531,2025-12-06
+0.36,"9 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275326,38.8344993591309,-122.823669433594,2.00999999046326,2025-12-06
+2.2722508635915317,"51 km ESE of Pedro Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xzsahw,59.58563613891602,-153.29168701171875,108.9107437133789,2025-12-06
+2.1261710313795406,"81 km WNW of Aleneva, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xzrvhm,58.34809112548828,-154.19052124023438,86.22476196289062,2025-12-06
+4.5,"74 km ENE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rsxn,53.3426,159.6408,71.389,2025-12-06
+2.7990851139254027,"72 km NNE of Aleneva, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xzqdgp,58.66929626464844,-152.4617156982422,48.28999328613281,2025-12-06
+1.6,"46 km NW of Toyah, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025xzpzdq,31.62,-104.128,4.536,2025-12-06
+1.05,"2 km NNW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275306,38.7971649169922,-122.762832641602,0.25,2025-12-06
+2.5,"35 km E of Pedro Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rsxh,59.8258,-153.4711,142.026,2025-12-06
+1.52,"10 km E of Hidden Valley Lake, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275301,38.7968330383301,-122.44416809082,5.36999988555908,2025-12-06
+1.397357915748978,"30 km SSE of Minto, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xzpkcb,64.89409637451172,-149.1200408935547,10.28878116607666,2025-12-06
+1.18,"7 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275296,38.8165016174316,-122.820167541504,2.51999998092651,2025-12-06
+2.68,"18 km SE of Petrolia, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275291,40.2121658325195,-124.136497497559,11.6999998092651,2025-12-06
+4.6,"18 km SW of Qūchān, Iran",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rsxf,37.0105,58.3401,10.0,2025-12-06
+0.45,"6 km NNW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275286,38.8224983215332,-122.793167114258,3.04999995231628,2025-12-06
+2.3447155440524146,"48 km N of Petersville, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xzohuh,62.92879867553711,-150.64756774902344,100.69135284423828,2025-12-06
+0.78,"8 km W of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275281,38.8359985351562,-122.81583404541,1.75,2025-12-06
+1.88,"6 km W of Fuig, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr71501693,17.9851666666667,-66.9788333333333,10.01,2025-12-06
+0.51,"6 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275276,38.8219985961914,-122.803337097168,2.5699999332428,2025-12-06
+1.7,"54 km S of Whites City, New Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025xzlwuc,31.682,-104.344,7.8943,2025-12-06
+5.1,southern East Pacific Rise,https://earthquake.usgs.gov/earthquakes/eventpage/us6000rsx7,-54.9213,-126.5757,10.0,2025-12-06
+1.66,"14 km S of Malibu Beach, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41134183,33.9055,-118.694666666667,15.62,2025-12-06
+1.57,"14 km S of Malibu Beach, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41134191,33.9035,-118.698,13.76,2025-12-06
+1.6244488334486917,"40 km SW of Cantwell, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xzkyts,63.11264038085938,-149.46376037597656,75.63678741455078,2025-12-06
+1.26,"1 km NNE of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275256,38.788501739502,-122.747329711914,1.20000004768372,2025-12-06
+1.77,"19 km SSW of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74846512,19.2738342285156,-155.273162841797,28.8899993896484,2025-12-06
+2.62,"16 km SSE of Livermore, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275231,37.5528335571289,-121.676170349121,5.15999984741211,2025-12-06
+0.86,"7 km NW of Coso Junction, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41134151,36.0965,-117.997666666667,5.69,2025-12-06
+0.71,"8 km W of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275226,38.836498260498,-122.816665649414,1.57000005245209,2025-12-06
+1.11,"7 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275221,38.8256683349609,-122.813331604004,1.98000001907349,2025-12-06
+4.7,Drake Passage,https://earthquake.usgs.gov/earthquakes/eventpage/us6000rsx2,-60.2641,-61.3732,10.0,2025-12-06
+1.5579164723105776,"5 km NNW of Point MacKenzie, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xzhoen,61.4049301147461,-150.02964782714844,34.09300231933594,2025-12-06
+4.6,"31 km SE of Shahritus, Tajikistan",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rswz,37.0895,68.4217,33.939,2025-12-06
+0.89,"6 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275216,38.8221664428711,-122.796836853027,1.01999998092651,2025-12-06
+1.8,"3 km SSW of Banning, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41134135,33.9001666666667,-116.891166666667,9.05,2025-12-06
+1.77,"4 km SSW of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74846482,19.1636657714844,-155.5,31.4899997711182,2025-12-06
+0.65,"20 km SSE of Bodfish, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41134119,35.4138333333333,-118.4185,3.59,2025-12-06
+0.84,"13 km NE of Ridgecrest, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41134111,35.711,-117.589666666667,7.41,2025-12-06
+1.1,"2 km NNW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275206,38.7933349609375,-122.766670227051,3.67000007629395,2025-12-06
+1.05,"8 km W of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275201,38.8338317871094,-122.815002441406,1.66999995708466,2025-12-06
+0.69,"3 km SSW of Banning, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41134103,33.9031666666667,-116.8875,8.96,2025-12-06
+0.69,"6 km WNW of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275196,38.8390007019043,-122.782836914062,1.85000002384186,2025-12-06
+1.27,"2 km E of Berkeley, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275191,37.8691673278809,-122.248832702637,8.75,2025-12-06
+1.0,"10 km WSW of Forsan, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025xzenef,32.087,-101.476,4.8809,2025-12-06
+1.9,"10 km W of Forsan, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025xzehuk,32.099,-101.478,8.96,2025-12-06
+0.58,"6 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275186,38.8216667175293,-122.805168151855,2.6800000667572,2025-12-06
+2.2,"7 km WSW of Guánica, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr71501678,17.9421666666667,-66.9726666666667,11.3,2025-12-06
+4.6,"139 km E of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rswr,53.0283,160.6999,51.816,2025-12-06
+2.234841839096584,"6 km NNW of Denali Park, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xzdlwd,63.78690719604492,-148.95448303222656,2.3106846809387207,2025-12-06
+1.5,"20 km NNW of Toyah, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025xzdkzl,31.496,-103.857,4.8209,2025-12-06
+0.47,"7 km WNW of Palomar Observatory, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41134071,33.3798333333333,-116.9315,5.43,2025-12-06
+1.3,"6 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275181,38.8141670227051,-122.814331054688,2.76999998092651,2025-12-06
+1.6,"29 km NNW of Toyah, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025xzcqzj,31.546,-103.94,0.0,2025-12-06
+2.8,"18 km S of Marathon, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025xzcqfo,30.038,-103.264,0.9521,2025-12-06
+1.5414532225902668,"21 km SSW of Petersville, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xzconm,62.31211471557617,-150.89553833007812,71.72470092773438,2025-12-06
+0.61,"8 km W of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75275176,38.8356666564941,-122.81600189209,1.51999998092651,2025-12-06
+4.8,"157 km ESE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000rswi,52.7501,160.9142,10.0,2025-12-06
+1.3,"48 km E of Fort Bidwell, California",https://earthquake.usgs.gov/earthquakes/eventpage/uw62217116,41.889833333333335,-119.57,2.54,2025-12-06
+1.1,"9 km W of Forsan, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025xzbdjv,32.106,-101.462,3.6507,2025-12-06
+0.26,"37 km NNE of Amboy, Washington",https://earthquake.usgs.gov/earthquakes/eventpage/uw62217111,46.19383333333333,-122.18633333333334,7.41,2025-12-06
+2.136601447102336,"34 km W of Anchor Point, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xzakvs,59.77372741699219,-152.45359802246094,74.49900817871094,2025-12-06
+1.25,"6 km NNE of Lake Marcel-Stillwater, Washington",https://earthquake.usgs.gov/earthquakes/eventpage/uw62217101,47.7455,-121.871,6.76,2025-12-06
+0.93,"9 km NNW of Idyllwild, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41134047,33.818,-116.748333333333,24.99,2025-12-06
+0.73,"12 km ENE of Desert Hot Springs, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41134039,33.9881666666667,-116.378833333333,9.7,2025-12-06
+2.8369594402380107,"26 km SW of Anchorage, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xyzsiz,61.08185577392578,-150.3007049560547,39.92655944824219,2025-12-06
+1.7,"14 km SW of Westbrook, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025xyzhcq,32.279,-101.137,2.5875,2025-12-06
+0.38,"16 km NNW of Aguanga, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41134023,33.5733333333333,-116.936666666667,9.32,2025-12-06
+1.06,"36 km ENE of Lucerne Valley, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41134015,34.6175,-116.638833333333,5.52,2025-12-06

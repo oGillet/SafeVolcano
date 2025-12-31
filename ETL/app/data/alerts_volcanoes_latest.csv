@@ -1,37 +1,33 @@
 Name,observatory_level,aviation_level,date
-Bezymianny,Yellow,Yellow,2025-12-19
-Dukono,Level 2 - Alert,unavailable or not collected Source,2025-12-19
-Fuego,unavailable or not collected,unavailable or not collected Source,2025-12-19
-Great Sitkin,Watch,Orange,2025-12-19
-Ibu,Level 2 - Alert,unavailable or not collected Source,2025-12-19
-Kīlauea,Watch,Orange,2025-12-19
-Kanlaon,2 - Moderate Level of Volcanic Unrest,unavailable or not collected Source,2025-12-19
-Krasheninnikov,White,Orange,2025-12-19
-Lewotobi,Level 3 - Standby,unavailable or not collected Source,2025-12-19
-Lewotolok,Level 2 - Alert,unavailable or not collected Source,2025-12-19
-Marapi,Level 2 - Alert,unavailable or not collected Source,2025-12-19
-Merapi,Level 3 - Standby,unavailable or not collected Source,2025-12-19
-Popocatépetl,Yellow Alert - Phase 2,unavailable or not collected Source,2025-12-19
-Poás,Level 2 - Warning,Yellow,2025-12-19
-Puracé,Orange,unavailable or not collected Source,2025-12-19
-Raung,Level 2 - Alert,unavailable or not collected Source,2025-12-19
-Reventador,3 - Orange,unavailable or not collected Source,2025-12-19
-Sabancaya,Orange,unavailable or not collected Source,2025-12-19
-Sangay,2 - Yellow,unavailable or not collected Source,2025-12-19
-Santa María,unavailable or not collected,unavailable or not collected Source,2025-12-19
-Semeru,Level 3 - Standby,unavailable or not collected Source,2025-12-19
-Sheveluch,Yellow,Orange,2025-12-19
-Taal,1 - Low-Level Unrest,unavailable or not collected Source,2025-12-19
-Bur ni Telong,Level 2 - Alert,unavailable or not collected Source,2025-12-19
-Iliwerung,Level 2 - Alert,unavailable or not collected Source,2025-12-19
-Karangetang,Level 2 - Alert,unavailable or not collected Source,2025-12-19
-Kerinci,Level 2 - Alert,unavailable or not collected Source,2025-12-19
-Lokon-Empung,Level 2 - Alert,unavailable or not collected Source,2025-12-19
-Mayon,1 - Low Level of Volcanic Unrest,unavailable or not collected Source,2025-12-19
-Pacaya,unavailable or not collected,unavailable or not collected Source,2025-12-19
-Rincón de la Vieja,Level 2 - Warning,Yellow,2025-12-19
-Sangeang Api,Level 2 - Alert,unavailable or not collected Source,2025-12-19
-Shishaldin,Advisory,Yellow,2025-12-19
-Soputan,Level 2 - Alert,unavailable or not collected Source,2025-12-19
-Talang,Level 2 - Alert,unavailable or not collected Source,2025-12-19
-Turrialba,Level 2 - Warning,unavailable or not collected Source,2025-12-19
+Dukono,Level 2 - Alert,unavailable or not collected Source,2025-12-30
+Great Sitkin,Watch,Orange,2025-12-30
+Ibu,Level 2 - Alert,unavailable or not collected Source,2025-12-30
+Kīlauea,Watch,Orange,2025-12-30
+Kanlaon,2 - Moderate Level of Volcanic Unrest,unavailable or not collected Source,2025-12-30
+Lewotobi,Level 3 - Standby,unavailable or not collected Source,2025-12-30
+Lewotolok,Level 2 - Alert,unavailable or not collected Source,2025-12-30
+Marapi,Level 2 - Alert,unavailable or not collected Source,2025-12-30
+Merapi,Level 3 - Standby,unavailable or not collected Source,2025-12-30
+Popocatépetl,Yellow Alert - Phase 2,unavailable or not collected Source,2025-12-30
+Puracé,Orange,unavailable or not collected Source,2025-12-30
+Raung,Level 2 - Alert,unavailable or not collected Source,2025-12-30
+Reventador,3 - Orange,unavailable or not collected Source,2025-12-30
+Sabancaya,Orange,unavailable or not collected Source,2025-12-30
+Sangay,2 - Yellow,unavailable or not collected Source,2025-12-30
+Semeru,Level 3 - Standby,unavailable or not collected Source,2025-12-30
+Taal,1 - Low-Level Unrest,unavailable or not collected Source,2025-12-30
+Awu,Level 2 - Alert,unavailable or not collected Source,2025-12-30
+Bur ni Telong,Level 3 - Standby,unavailable or not collected Source,2025-12-30
+Gamalama,Level 2 - Alert,unavailable or not collected Source,2025-12-30
+Iliwerung,Level 2 - Alert,unavailable or not collected Source,2025-12-30
+Karangetang,Level 2 - Alert,unavailable or not collected Source,2025-12-30
+Kerinci,Level 2 - Alert,unavailable or not collected Source,2025-12-30
+Lokon-Empung,Level 2 - Alert,unavailable or not collected Source,2025-12-30
+Mayon,1 - Low Level of Volcanic Unrest,unavailable or not collected Source,2025-12-30
+Sangeang Api,Level 2 - Alert,unavailable or not collected Source,2025-12-30
+Shishaldin,Advisory,Yellow,2025-12-30
+Soputan,Level 2 - Alert,unavailable or not collected Source,2025-12-30
+Talang,Level 2 - Alert,unavailable or not collected Source,2025-12-30
+Tengger Caldera,Level 2 - Alert,unavailable or not collected Source,2025-12-30
+Katmai,Normal,Green,2025-12-30
+Tangkuban Parahu,Level 1 - Normal,unavailable or not collected Source,2025-12-30

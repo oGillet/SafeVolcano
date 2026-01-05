@@ -1,12 +1,15 @@
 magnitude,place,infos,y_coordinate,x_coordinate,depth,date
+0.64,"11 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75291141,38.8313331604004,-122.857666015625,2.04999995231628,2026-01-04
 1.48,"11 km S of Idyllwild, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41152247,33.6438333333333,-116.730833333333,13.42,2026-01-04
 2.11,"1 km E of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74869122,19.2014999389648,-155.467666625977,-0.25,2026-01-04
+1.6,"15 km NE of Balmorhea, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ahzwpm,31.071,-103.615,0.0,2026-01-04
 2.0,"10 km W of Forsan, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ahzwkx,32.105,-101.482,2.9244,2026-01-04
 1.3,"6 km SE of Cloverdale, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75291131,38.7620010375977,-122.96883392334,-0.560000002384186,2026-01-04
 2.12,"10 km SE of Pinnacles, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75291126,36.4654998779297,-121.067001342773,4.42000007629395,2026-01-04
 1.13,"6 km WNW of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75291121,38.8368339538574,-122.785667419434,2.02999997138977,2026-01-04
 0.75,"10 km SE of Winchester, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41152239,33.6413333333333,-117.0155,12.73,2026-01-04
 1.01,"6 km WNW of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75291111,38.8363342285156,-122.794998168945,1.87000000476837,2026-01-04
+4.4,"89 km W of Murghob, Tajikistan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rmij,38.1288,72.9496,140.041,2026-01-04
 1.9,"13 km WSW of Petersville, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026ahyhtx,62.461,-151.019,80.4,2026-01-04
 1.2,"11 km WSW of Forsan, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ahyaps,32.089,-101.486,0.6776,2026-01-04
 2.4,"66 km SE of Pope-Vannoy Landing, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026ahxzuy,59.185,-153.586,16.8,2026-01-04
@@ -23,7 +26,7 @@ magnitude,place,infos,y_coordinate,x_coordinate,depth,date
 4.9,"3 km ENE of Aratoca, Colombia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rmi6,6.7097,-72.9931,169.709,2026-01-04
 2.37,"0 km NNE of Palomas, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr71504008,18.0193333333333,-66.8718333333333,14.3,2026-01-04
 1.8,"57 km S of Whites City, New Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ahtnri,31.664,-104.475,4.355,2026-01-04
-2.2,"60 km S of Whites City, New Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ahszdp,31.64,-104.474,4.9735,2026-01-04
+2.1,"57 km S of Whites City, New Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ahszdp,31.659,-104.456,5.9717,2026-01-04
 1.46,"13 km N of Hollister, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75291051,36.9625015258789,-121.370498657227,1.44000005722046,2026-01-04
 1.3,"7 km ESE of Big Spring, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ahscyt,32.224,-101.401,2.5454,2026-01-04
 1.14,"8 km W of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75291041,38.8349990844727,-122.81616973877,0.839999973773956,2026-01-04
@@ -180,5 +183,3 @@ magnitude,place,infos,y_coordinate,x_coordinate,depth,date
 1.6,"23 km S of Westbrook, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2026agfeco,32.143,-101.061,3.1762,2026-01-04
 1.7,"24 km S of Westbrook, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2026agfbjj,32.14,-101.061,1.4041,2026-01-04
 1.5,"24 km S of Westbrook, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2026agfawl,32.138,-101.056,2.6332,2026-01-04
-1.82,"12 km NNE of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74868672,19.3028335571289,-155.421340942383,26.6700000762939,2026-01-04
-2.6,"110 km NNW of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rme6,60.5104,-140.1997,5.0,2026-01-04

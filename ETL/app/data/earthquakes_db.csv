@@ -1,4 +1,11 @@
 magnitude,place,infos,y_coordinate,x_coordinate,depth,date
+0.94,"12 km ENE of Cloverdale, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75292456,38.8316650390625,-122.886001586914,2.24000000953674,2026-01-07
+0.68,"12 km ENE of Cloverdale, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75292451,38.8315010070801,-122.885833740234,2.0699999332428,2026-01-07
+1.27,"12 km ENE of Cloverdale, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75292446,38.8358345031738,-122.884834289551,2.00999999046326,2026-01-07
+1.29,"10 km WNW of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75292431,38.8581657409668,-122.831665039062,0.759999990463257,2026-01-07
+2.68,"13 km ENE of Cloverdale, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75292426,38.8418350219727,-122.877830505371,2.67000007629395,2026-01-07
+4.0,"12 km ENE of Cloverdale, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75292441,38.8330001831055,-122.879997253418,2.25999999046326,2026-01-07
+2.1,"37 km WSW of Nanwalek, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026anlyqj,59.183,-152.486,64.5,2026-01-07
 1.66,"10 km WNW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75292411,38.8255004882812,-122.852836608887,2.55999994277954,2026-01-07
 1.21,"1 km ESE of Colton, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41154327,34.0698333333333,-117.301,16.02,2026-01-07
 0.83,"15 km NNE of Pine Valley, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41154319,32.9483333333333,-116.463333333333,9.43,2026-01-07
@@ -116,10 +123,12 @@ magnitude,place,infos,y_coordinate,x_coordinate,depth,date
 2.4,"9 km W of Trapper Creek, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026amriso,62.315,-150.416,15.3,2026-01-07
 1.08,"5 km ENE of Muscoy, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41153999,34.1748333333333,-117.301166666667,5.07,2026-01-07
 1.09,"5 km ENE of Muscoy, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41153991,34.177,-117.3025,3.24,2026-01-07
+0.3,"7 km W of Dutch Harbor, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93986196,53.899,-166.6615,7.65,2026-01-07
 3.3,"252 km SE of Chiniak, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rnbk,56.1258,-149.1614,10.0,2026-01-07
 2.0,"70 km ESE of Cantwell, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026amqnvm,63.159,-147.635,8.7,2026-01-07
 4.6,"10 km E of Lata, Solomon Islands",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rnay,-10.7359,165.8953,141.272,2026-01-07
 0.76,"5 km WNW of Anza, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41153959,33.572,-116.720166666667,3.34,2026-01-07
+-0.53,"10 km WNW of Dutch Harbor, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93054229,53.9091666666667,-166.693833333333,4.98,2026-01-07
 1.38,"5 km ENE of Muscoy, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41153951,34.1781666666667,-117.299333333333,6.58,2026-01-07
 1.1,"28 km SW of Kanosh, Utah",https://earthquake.usgs.gov/earthquakes/eventpage/uu80127026,38.5993333333333,-112.636,6.52,2026-01-07
 0.95,"4 km ENE of Muscoy, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41153943,34.175,-117.304166666667,4.36,2026-01-07
@@ -262,5 +271,3 @@ magnitude,place,infos,y_coordinate,x_coordinate,depth,date
 0.99,"10 km NE of Hildale, Utah",https://earthquake.usgs.gov/earthquakes/eventpage/uu80006073,37.0761666666667,-112.8915,17.25,2026-01-07
 2.4,"79 km WNW of Nikiski, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026alqvnk,60.941,-152.661,138.7,2026-01-07
 1.4,"9 km NNW of Forsan, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2026alqnxh,32.191,-101.399,8.2275,2026-01-07
-1.24,"13 km SW of Searles Valley, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41153423,35.6791666666667,-117.502666666667,8.88,2026-01-07
-0.9,"16 km N of Atka, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93054199,52.342,-174.1825,2.77,2026-01-07

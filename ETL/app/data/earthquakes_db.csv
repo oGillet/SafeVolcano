@@ -1,228 +1,271 @@
 magnitude,place,infos,y_coordinate,x_coordinate,depth,date
-1.2,"3 km SSE of San Juan Bautista, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294981,36.8201675415039,-121.528335571289,3.27999997138977,2026-01-12
-0.51,"8 km SSE of Palomar Observatory, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41156535,33.2895,-116.837,15.03,2026-01-12
-1.65,"6 km NW of Delta, B.C., MX",https://earthquake.usgs.gov/earthquakes/eventpage/ci41156527,32.3878333333333,-115.245166666667,11.03,2026-01-12
-1.2,"24 km ENE of Minto, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026awulbh,65.209,-148.847,12.4,2026-01-12
-1.55,"26 km WSW of Hawthorne, Nevada",https://earthquake.usgs.gov/earthquakes/eventpage/nn00909487,38.3974,-118.8843,9.4741,2026-01-12
-1.9,"47 km W of Nanwalek, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026awuhlt,59.339,-152.761,72.6,2026-01-12
-2.5,"111 km WSW of Adak, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026awubln,51.596,-178.191,11.7,2026-01-12
-1.72,"12 km SSE of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74873547,19.344165802002,-155.179336547852,3.63000011444092,2026-01-12
-1.7,"5 km NNE of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74873542,19.2491664886475,-155.460494995117,44.7599983215332,2026-01-12
-1.8,"19 km W of Ninilchik, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026awtjus,60.064,-152.016,65.4,2026-01-12
-1.9,"36 km NNW of Valdez, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026awthcf,61.431,-146.603,9.4,2026-01-12
-1.14,"27 km N of Searles Valley, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41156519,36.0051666666667,-117.370166666667,3.33,2026-01-12
-2.0,"113 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026awsvto,60.555,-139.956,3.9,2026-01-12
-4.9,"147 km ESE of Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpd2,44.4997,149.441,35.0,2026-01-12
-1.25,"3 km SSE of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294966,38.7566680908203,-122.74333190918,0.800000011920929,2026-01-12
-2.1,"52 km W of Aleneva, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026awschy,58.054,-153.805,59.6,2026-01-12
-1.65,"18 km WSW of Johannesburg, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41156511,35.3028333333333,-117.809,7.14,2026-01-12
-4.3,"32 km NW of Ashkāsham, Afghanistan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpd1,36.8601,71.2418,198.867,2026-01-12
-1.06,"6 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294956,38.8186683654785,-122.79467010498,3.27999997138977,2026-01-12
-1.16,"7 km NNE of Cabazon, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41156503,33.9781666666667,-116.752,11.38,2026-01-12
-4.6,"1 km ENE of Fornace Zarattini, Italy",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpcy,44.4249,12.1541,10.0,2026-01-12
-4.9,"117 km ESE of Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpcx,44.8252,149.2526,44.198,2026-01-12
-1.36,"1 km NNW of Middletown, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294951,38.7625007629395,-122.619667053223,7.09000015258789,2026-01-12
-0.75,"27 km SSW of Ocotillo Wells, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41156495,32.9241666666667,-116.249333333333,10.0,2026-01-12
-2.0,"107 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026awricb,60.513,-139.856,2.3,2026-01-12
-1.96,"16 km N of Laytonville, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294946,39.8300018310547,-123.485000610352,5.78999996185303,2026-01-12
-1.32,"2 km NNW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294941,38.7915000915527,-122.762664794922,3.11999988555908,2026-01-12
-1.28,"2 km NNW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294936,38.7919998168945,-122.763000488281,3.3199999332428,2026-01-12
-2.5,"43 km E of Pedro Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026awqsmv,59.824,-153.338,127.6,2026-01-12
-1.5,"4 km WSW of Moose Creek, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026awqqhb,64.696,-147.243,9.9,2026-01-12
-1.51,"2 km N of Inverness, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294931,38.1193351745605,-122.859832763672,11.6999998092651,2026-01-12
-1.9,"46 km E of Denali National Park, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026awqlxn,63.507,-150.793,1.2,2026-01-12
-0.71,"7 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294926,38.8291664123535,-122.811668395996,1.05999994277954,2026-01-12
-1.84,"38 km SE of Waikoloa, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74873462,19.7003326416016,-155.523498535156,36.810001373291,2026-01-12
-4.6,"257 km E of Levuka, Fiji",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpci,-18.0565,-178.2485,566.522,2026-01-12
-6.2,"133 km SE of Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpcg,44.5495,149.2768,35.788,2026-01-12
-1.71,"32 km SSE of Naalehu, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74873437,18.7863330841064,-155.505493164062,15.8000001907349,2026-01-12
-5.3,"72 km W of Ollagüe, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpce,-21.3112,-68.9485,118.039,2026-01-12
-2.0,"36 km NW of Toyah, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2026awpoej,31.569,-104.03,6.2934,2026-01-12
-2.9,"233 km W of Adak, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpcr,51.6842,-179.9992,95.122,2026-01-12
-1.6,"45 km E of Chase, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026awooyh,62.503,-149.226,0.7,2026-01-12
-4.8,"122 km ENE of Angoram, Papua New Guinea",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpc8,-3.7866,145.1319,10.0,2026-01-12
-3.05,"9 km SSE of Maria Antonia, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr71505018,17.9013333333333,-66.8438333333333,13.48,2026-01-12
-4.5,"102 km N of Finschhafen, Papua New Guinea",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpc6,-5.6415,147.7014,168.143,2026-01-12
-2.8,"92 km SSE of Ugashik, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026awntfg,56.779,-156.666,68.1,2026-01-12
-2.02,"12 km ESE of Angwin, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294916,38.5423316955566,-122.316665649414,0.00999999977648258,2026-01-12
-1.7,"9 km SSE of Maria Antonia, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr71505013,17.907,-66.8438333333333,15.26,2026-01-12
-2.13,"9 km SSE of Maria Antonia, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr71505008,17.8991666666667,-66.8456666666667,14.14,2026-01-12
-1.45,"13 km ESE of Angwin, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294911,38.5436668395996,-122.305999755859,-0.200000002980232,2026-01-12
-2.5,"41 km W of Valdez, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026awnecm,61.201,-147.11,2.9,2026-01-12
-1.3,"11 km WSW of Stanton, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2026awncbt,32.099,-101.91,4.0891,2026-01-12
-1.46,"1 km NNW of Middletown, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294906,38.7621650695801,-122.617668151855,6.42000007629395,2026-01-12
-2.2,"73 km S of Nanwalek, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026awmzag,58.709,-152.148,47.5,2026-01-12
-1.2,"86 km NNW of Karluk, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026awmxts,58.291,-154.992,5.0,2026-01-12
-0.75,"7 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294901,38.8183326721191,-122.822998046875,2.23000001907349,2026-01-12
-1.72,"11 km SSE of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74873342,19.1014995574951,-155.442504882812,27.4400005340576,2026-01-12
-0.75,"4 km WNW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294896,38.7963333129883,-122.795669555664,0.419999986886978,2026-01-12
-1.3,"10 km N of Borrego Springs, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41156487,33.3461666666667,-116.395333333333,12.15,2026-01-12
-0.91,"47 km SSW of Stovepipe Wells, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41156479,36.2353333333333,-117.409166666667,1.72,2026-01-12
-0.53,"8 km S of Hemet, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41156471,33.6783333333333,-116.970666666667,15.03,2026-01-12
-3.13,"2 km NE of Bayamón, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr71504998,18.4176666666667,-66.1376666666667,119.44,2026-01-12
-1.35,"4 km ESE of Mossyrock, Washington",https://earthquake.usgs.gov/earthquakes/eventpage/uw62214062,46.51716666666667,-122.429,20.83,2026-01-12
-1.4,"59 km S of Whites City, New Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/tx2026awjsle,31.642,-104.428,4.1011,2026-01-12
-1.0,"85 km NW of Karluk, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026awjlys,58.174,-155.348,5.0,2026-01-12
-2.09,"29 km NNW of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74873277,19.4563331604004,-155.577667236328,43.1800003051758,2026-01-12
-1.14,"9 km SSE of Livermore, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294886,37.6128349304199,-121.713996887207,8.68000030517578,2026-01-12
-1.5,"11 km SE of Livermore, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294881,37.603832244873,-121.696334838867,4.69000005722046,2026-01-12
-2.0,"50 km WSW of Tatitlek, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026awjbkd,60.646,-147.493,9.2,2026-01-12
-2.67,"12 km ENE of Honaunau-Napoopoo, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74873262,19.5066661834717,-155.762496948242,7.94999980926514,2026-01-12
-1.17,"10 km SE of Livermore, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294876,37.6063346862793,-121.697334289551,5.5,2026-01-12
-1.74,"11 km SE of Livermore, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294866,37.605167388916,-121.693496704102,4.40000009536743,2026-01-12
-1.83,"11 km SE of Livermore, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294846,37.6025009155273,-121.690002441406,3.98000001907349,2026-01-12
-0.9,"32 km SSE of Minto, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026awiiut,64.909,-148.979,2.7,2026-01-12
-1.29,"12 km SSE of Livermore, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294841,37.5901679992676,-121.704170227051,1.52999997138977,2026-01-12
-1.8,"24 km NNW of Sutton-Alpine, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026awigfk,61.979,-148.938,19.5,2026-01-12
-5.6,Easter Island region,https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpbg,-29.8469,-111.8566,10.0,2026-01-12
-0.9,"42 km NW of Toyah, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2026awhxkf,31.533,-104.156,3.8161,2026-01-12
-1.29,"6 km WNW of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294836,38.8359985351562,-122.78816986084,1.72000002861023,2026-01-12
-1.8,"69 km ENE of Pedro Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026awhkfb,60.121,-153.053,123.8,2026-01-12
-1.62,"3 km SSW of Dublin, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294831,37.6768341064453,-121.948501586914,14.2600002288818,2026-01-12
-1.02,"10 km SSW of Toms Place, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294826,37.4884986877441,-118.739669799805,2.41000008583069,2026-01-12
-1.4,"91 km WNW of Karluk, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026awgrct,57.957,-155.812,75.4,2026-01-12
-1.8,"77 km ENE of McCarthy, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026awgqps,61.629,-141.52,5.1,2026-01-12
-2.18,"8 km WNW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294821,38.818000793457,-122.838836669922,2.23000001907349,2026-01-12
-1.9,"59 km S of Whites City, New Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/tx2026awgaqz,31.643,-104.376,4.174,2026-01-12
-2.7,"58 km S of Whites City, New Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/tx2026awftyf,31.646,-104.373,4.1327,2026-01-12
-2.3,"64 km W of Nanwalek, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026awfhvz,59.324,-153.054,82.8,2026-01-12
-2.6,"108 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpb0,60.5169,-139.7817,8.359,2026-01-12
-1.4,"53 km WNW of Toyah, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2026awebqb,31.535,-104.296,0.0,2026-01-12
-1.8,"14 km SE of Fern Forest, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74873197,19.3605003356934,-155.054840087891,0.819999992847443,2026-01-12
-0.75,"5 km NNW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294811,38.8141670227051,-122.785667419434,0.970000028610229,2026-01-12
-2.2,"54 km S of Whites City, New Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/tx2026awdxjn,31.682,-104.359,4.75,2026-01-12
-5.2,"198 km NW of Tobelo, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpaw,2.9121,126.6719,56.312,2026-01-12
-0.78,"5 km WNW of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294801,38.837833404541,-122.778503417969,5.92000007629395,2026-01-12
-4.6,"106 km SW of Pagar Alam, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpav,-4.7389,102.6008,54.598,2026-01-12
-2.2,"20 km SE of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74873187,19.0596666666667,-155.361333333333,32.88,2026-01-12
-0.74,"9 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294796,38.8238334655762,-122.845169067383,2.20000004768372,2026-01-12
-2.01,"11 km SSE of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74873182,19.3493333333333,-155.177833333333,4.47,2026-01-12
-1.9,"65 km ESE of Cantwell, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026awdbcz,63.195,-147.716,3.6,2026-01-12
-1.11,"26 km NE of Arvin, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41156431,35.3721666666667,-118.620666666667,4.45,2026-01-12
-3.0,"108 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpar,60.5169,-139.7329,5.0,2026-01-12
-1.2,"10 km E of Fox, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026awcxsl,64.97,-147.403,5.0,2026-01-12
-0.76,"17 km ESE of Anza, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41156423,33.5096666666667,-116.501,14.2,2026-01-12
-0.9,"85 km NNW of Karluk, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026awceqy,58.285,-154.963,5.0,2026-01-12
-5.2,"177 km S of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpaq,49.0897,156.41,10.0,2026-01-12
-0.76,"4 km WNW of Warner Springs, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41156415,33.2926666666667,-116.669166666667,1.45,2026-01-12
-0.52,"10 km ENE of Palomar Observatory, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41156407,33.3805,-116.758,13.37,2026-01-12
-2.0,"100 km NNW of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026awbidt,60.31,-140.689,5.0,2026-01-12
-1.45,"1 km NNW of Middletown, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294786,38.7633323669434,-122.61833190918,7.23000001907349,2026-01-12
-1.89,"19 km W of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74873162,19.4538326263428,-155.417007446289,41.9700012207031,2026-01-12
-0.9,"8 km SSE of South Van Horn, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026awaalz,64.741,-147.702,17.2,2026-01-12
-1.54,"18 km N of Pine Mountain Club, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41156391,35.011,-119.143833333333,12.73,2026-01-12
-4.5,"28 km NE of Sungai Penuh, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpai,-1.9122,101.5989,162.208,2026-01-12
-0.98,"6 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294781,38.8224983215332,-122.800498962402,2.63000011444092,2026-01-12
-4.0,"45 km ENE of La Tirana, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpaa,-20.2282,-69.2328,85.31,2026-01-12
-1.57,"3 km N of Langford, Canada",https://earthquake.usgs.gov/earthquakes/eventpage/uw62214047,48.479166666666664,-123.50433333333334,-0.21,2026-01-12
-1.9,"32 km E of Chase, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026avyqer,62.444,-149.479,7.4,2026-01-12
-1.09,"6 km SSW of Idyllwild, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41156367,33.6836666666667,-116.7325,16.55,2026-01-12
--0.82,"61 km SE of Pedro Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93992276,59.3558333333333,-153.439,-0.09,2026-01-12
-0.43,"34 km E of West Yellowstone, Montana",https://earthquake.usgs.gov/earthquakes/eventpage/uu80127296,44.6621666666667,-110.665666666667,6.19,2026-01-12
-3.6,"237 km WSW of Adak, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026avxzwa,50.959,-179.724,12.1,2026-01-12
-2.0,"70 km ESE of Denali National Park, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026avxuro,63.297,-150.421,113.0,2026-01-12
-4.2,"129 km E of Atka, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpb9,52.1468,-172.3118,30.047,2026-01-12
-0.98,"4 km ESE of Mossyrock, Washington",https://earthquake.usgs.gov/earthquakes/eventpage/uw62214037,46.5175,-122.42316666666666,19.97,2026-01-12
-1.71,"19 km SSE of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74873142,19.0499992370605,-155.388336181641,34.1300010681152,2026-01-12
-2.05,"19 km NNW of Halfway, Oregon",https://earthquake.usgs.gov/earthquakes/eventpage/uw62214032,45.03066666666667,-117.23283333333333,6.99,2026-01-12
-0.32,"70 km WNW of Ninilchik, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93992236,60.2603333333333,-152.858,9.72,2026-01-12
-1.81,"21 km SE of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74873137,19.0513333333333,-155.355333333333,33.74,2026-01-12
-1.7,"45 km WNW of Toyah, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2026avxetr,31.5,-104.222,0.0,2026-01-12
-0.65,"3 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294761,38.7928352355957,-122.780830383301,3.52999997138977,2026-01-12
-1.47,"4 km ESE of Mossyrock, Washington",https://earthquake.usgs.gov/earthquakes/eventpage/uw62214027,46.51883333333333,-122.42616666666666,20.05,2026-01-12
-5.1,"233 km ENE of Lospalos, Timor Leste",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rp9r,-7.5087,128.8545,101.686,2026-01-12
-2.0,"67 km NW of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026avwqju,59.894,-140.704,10.6,2026-01-12
-1.19,"4 km SSW of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74873127,19.1688333333333,-155.491833333333,33.54,2026-01-12
-1.7,"47 km NNW of Karluk, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026avwokj,57.982,-154.641,66.9,2026-01-12
-2.7,"8 km NE of Amarillo, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2026avwbns,35.274,-101.763,8.6182,2026-01-12
-1.56,"10 km SSE of Enterprise, Nevada",https://earthquake.usgs.gov/earthquakes/eventpage/nn00909460,35.9464,-115.188,15.9468,2026-01-12
-4.5,"234 km SSE of Sarangani, Philippines",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rp9f,3.6006,126.5781,52.095,2026-01-12
-3.9,"Rat Islands, Aleutian Islands, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026avvtou,51.086,177.659,12.9,2026-01-12
-1.41,"13 km SE of Tehachapi, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41156287,35.0553333333333,-118.348,-0.59,2026-01-12
-1.8,"89 km WNW of Karluk, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026avvqaf,57.75,-155.91,5.7,2026-01-12
-4.6,Drake Passage,https://earthquake.usgs.gov/earthquakes/eventpage/us7000rp9a,-59.9202,-61.7526,10.0,2026-01-12
-1.7,"88 km WNW of Karluk, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026avvizq,57.75,-155.905,12.2,2026-01-12
--0.86,"61 km ENE of Pedro Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93992176,59.9941666666667,-153.087333333333,3.01,2026-01-12
-1.6,"59 km SE of Pedro Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026avvcsv,59.368,-153.458,5.0,2026-01-12
-4.7,"228 km NW of Tobelo, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rp93,3.3624,126.7554,48.579,2026-01-12
-1.57,"3 km ESE of Veradale, Washington",https://earthquake.usgs.gov/earthquakes/eventpage/uw62214012,47.63666666666667,-117.15866666666666,-0.84,2026-01-12
-1.72,"5 km ESE of Redway, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294746,40.0979995727539,-123.769668579102,21.0699996948242,2026-01-12
-3.36,"133 km NNE of Vieques, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr71504988,19.561,-65.3936666666667,11.08,2026-01-12
-0.49,"3 km N of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294736,38.7999992370605,-122.752998352051,2.64000010490417,2026-01-12
-1.9,"64 km NNW of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026avtdyb,60.114,-139.99,12.5,2026-01-12
-1.5,"18 km SSW of Stanton, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2026avtdtw,31.976,-101.853,8.3092,2026-01-12
-1.57,"22 km NNE of Hiko, Nevada",https://earthquake.usgs.gov/earthquakes/eventpage/nn00909458,37.7758,-115.112,1.7655,2026-01-12
-0.86,"25 km NNE of Ocotillo, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41156223,32.9281666666667,-115.856333333333,8.42,2026-01-12
-2.17,"8 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294721,38.8293342590332,-122.817665100098,1.53999996185303,2026-01-12
-1.67,"5 km NNW of Pinnacles, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294716,36.5699996948242,-121.163833618164,7.96000003814697,2026-01-12
-4.5,"113 km WSW of Abepura, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rp8c,-2.9139,139.6657,67.151,2026-01-12
-0.88,"9 km WNW of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294711,38.8451652526855,-122.826332092285,2.02999997138977,2026-01-12
--0.58,"63 km ENE of Pedro Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93992101,60.0266666666667,-153.0825,4.48,2026-01-12
-2.4,"23 km NNE of Sterling, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026avqnvk,60.718,-150.529,43.0,2026-01-12
-1.15,"9 km NE of Julian, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41156167,33.1448333333333,-116.546166666667,11.18,2026-01-12
-1.48,"8 km NW of Pinnacles, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294701,36.5885009765625,-121.192665100098,7.21999979019165,2026-01-12
-4.0,"48 km NNE of Meulaboh, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rp8e,4.5298,96.3271,14.05,2026-01-12
-0.93,"6 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294696,38.818000793457,-122.799163818359,2.60999989509583,2026-01-12
-2.0,"30 km E of Chase, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026avqkpl,62.449,-149.507,0.6,2026-01-12
-1.5,"36 km NW of Ninilchik, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026avqgar,60.237,-152.201,87.7,2026-01-12
-1.47,"66 km WSW of Nikolski, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93054389,52.7498333333333,-169.7925,2.69,2026-01-12
-1.7,"34 km N of Chase, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026avqaqd,62.761,-150.162,72.8,2026-01-12
--0.07,"44 km NE of King Cove, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93054379,55.3558333333333,-161.854833333333,6.0,2026-01-12
-2.02,"3 km WNW of Cabazon, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41156135,33.922,-116.814333333333,6.67,2026-01-12
-2.5,"101 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rp7r,60.4503,-139.8862,10.0,2026-01-12
-2.28,"2 km WNW of Cabazon, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41156119,33.9235,-116.813166666667,6.43,2026-01-12
-2.8,"82 km SE of Nikolai, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026avoldf,62.485,-153.254,5.0,2026-01-12
-0.8,"16 km SSW of Searles Valley, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41156071,35.6275,-117.463166666667,9.73,2026-01-12
--0.13,"48 km NE of King Cove, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93054374,55.358,-161.755666666667,6.2,2026-01-12
-4.9,"15 km NW of Nakatonbetsu, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rp6e,45.0846,142.1755,7.098,2026-01-12
-1.38,"5 km SSW of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74873037,19.1538333333333,-155.500833333333,32.18,2026-01-12
-4.8,"4 km NNW of Libas, Philippines",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rp69,9.9238,125.9683,85.323,2026-01-12
--0.78,"64 km ENE of Pedro Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93992041,60.0425,-153.0635,0.21,2026-01-12
-2.05,"11 km NNE of Cayucos, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294651,35.5359992980957,-120.838333129883,6.78000020980835,2026-01-12
-0.76,"9 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294646,38.8255004882812,-122.844833374023,1.89999997615814,2026-01-12
-0.04,"47 km NE of King Cove, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93054369,55.386,-161.8355,0.35,2026-01-12
--0.05,"45 km NE of King Cove, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93054364,55.3573333333333,-161.824333333333,3.78,2026-01-12
-1.79,"14 km SSE of Fern Forest, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74873027,19.3491666666667,-155.074333333333,5.78,2026-01-12
-1.17,"8 km S of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294641,38.7053337097168,-122.7568359375,8.65999984741211,2026-01-12
--0.02,"45 km NE of King Cove, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93054359,55.3858333333333,-161.8745,4.13,2026-01-12
-1.6,"29 km SE of Glacier View, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026avkrrb,61.599,-147.296,27.8,2026-01-12
-1.28,"23 km N of Borrego Springs, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41156031,33.4618333333333,-116.42,9.95,2026-01-12
-0.78,"6 km W of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294636,38.8246650695801,-122.791496276855,-0.0500000007450581,2026-01-12
-2.13,"7 km NW of Pinnacles, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294631,36.5688323974609,-121.202331542969,5.78000020980835,2026-01-12
-0.61,"9 km WNW of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294626,38.8409996032715,-122.823501586914,1.85000002384186,2026-01-12
-0.67,"4 km S of Idyllwild, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41156015,33.7046666666667,-116.7215,17.26,2026-01-12
-1.2,"12 km SSW of Searles Valley, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41156007,35.6758333333333,-117.478333333333,8.27,2026-01-12
-0.47,"3 km SSW of Anderson Springs, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294621,38.7528343200684,-122.709663391113,1.3400000333786,2026-01-12
-0.34,"3 km WNW of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294616,38.8328323364258,-122.754333496094,-0.910000026226044,2026-01-12
-1.29,"3 km WNW of Anderson Springs, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294606,38.7883338928223,-122.721000671387,1.91999995708466,2026-01-12
-0.96,"22 km W of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74873007,19.4358333333333,-155.452166666667,6.26,2026-01-12
-1.5,"13 km N of Cantwell, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026avhjwg,63.513,-148.979,5.0,2026-01-12
-1.33,"8 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294596,38.8281669616699,-122.820503234863,1.73000001907349,2026-01-12
-0.82,"51 km NE of King Cove, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93054354,55.3435,-161.682333333333,3.36,2026-01-12
-0.26,"49 km NE of King Cove, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93991966,55.3976666666667,-161.803,5.44,2026-01-12
-1.02,"2 km N of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294586,38.7944984436035,-122.759834289551,-0.300000011920929,2026-01-12
-1.07,"2 km NNW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294581,38.7933349609375,-122.761169433594,-0.0900000035762787,2026-01-12
-0.28,"8 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294576,38.8313331604004,-122.818168640137,2.22000002861023,2026-01-12
-2.3,"44 km NNW of Valdez, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026avgbwl,61.511,-146.618,18.6,2026-01-12
-0.73,"2 km NNW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294571,38.7934989929199,-122.761833190918,0.370000004768372,2026-01-12
-4.6,"25 km ESE of Yilan, Taiwan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rp5v,24.7086,122.0009,68.318,2026-01-12
-1.28,"2 km NW of Universal City, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41155983,34.1525,-118.368333333333,14.15,2026-01-12
-1.42,"6 km SSE of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74872972,19.1481666666667,-155.4525,33.51,2026-01-12
-0.83,"10 km NNE of Cabazon, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41155975,34.0038333333333,-116.752166666667,13.63,2026-01-12
-1.71,"13 km SE of Naalehu, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74872967,18.9745006561279,-155.50016784668,31.1800003051758,2026-01-12
-4.5,"56 km W of Puerto Cortés, Costa Rica",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rp5t,8.9119,-84.0355,10.0,2026-01-12
--0.83,"63 km ENE of Pedro Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93991896,60.0428333333333,-153.085833333333,-1.96,2026-01-12
-0.36,"6 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294551,38.8176651000977,-122.794166564941,2.23000001907349,2026-01-12
--0.04,"45 km NE of King Cove, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93054349,55.357,-161.837333333333,7.86,2026-01-12
-1.7,"58 km S of Whites City, New Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/tx2026avdhle,31.651,-104.446,6.9202,2026-01-12
-1.39,"8 km ENE of Lake Arrowhead, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41155967,34.2786666666667,-117.113666666667,7.23,2026-01-12
-1.54,"5 km WNW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294546,38.7953338623047,-122.809829711914,2.86999988555908,2026-01-12
-2.3,"16 km SSW of Nanwalek, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026avdbpo,59.222,-152.061,64.6,2026-01-12
-0.77,"4 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294536,38.8033332824707,-122.78133392334,3.21000003814697,2026-01-12
-0.02,"42 km NE of King Cove, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93991866,55.3075,-161.807833333333,8.43,2026-01-12
-0.57,"18 km NNW of Borrego Springs, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41155959,33.4086666666667,-116.437,15.11,2026-01-12
-0.75,"7 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75294531,38.8151664733887,-122.81950378418,0.870000004768372,2026-01-12
-1.79,"20 km ESE of Naalehu, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74872947,18.9834995269775,-155.405502319336,36.2799987792969,2026-01-12
-0.63,"13 km WSW of Searles Valley, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41155951,35.7371666666667,-117.541333333333,6.38,2026-01-12
-1.5,"60 km S of Whites City, New Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/tx2026avalbw,31.638,-104.449,7.3303,2026-01-12
-1.24,"6 km NNW of Kenilworth, Utah",https://earthquake.usgs.gov/earthquakes/eventpage/uu80127281,39.743,-110.835166666667,1.77,2026-01-12
+3.3,"30 km SW of Atoka, New Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpts,32.5529,-104.5942,5.0,2026-01-14
+1.08,"11 km ENE of Borrego Springs, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41158207,33.2976666666667,-116.262166666667,6.33,2026-01-14
+0.47,"5 km ESE of Valle Vista, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41158199,33.7326666666667,-116.837166666667,17.14,2026-01-14
+0.76,"4 km N of Murrieta, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41158191,33.5905,-117.2075,14.82,2026-01-14
+2.0,"43 km NNE of Chickaloon, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026bakiqi,62.152,-148.118,38.3,2026-01-14
+0.8,"76 km S of McCarthy, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026bakhgg,60.753,-142.707,2.4,2026-01-14
+2.0,"42 km NW of Toyah, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2026bakdzz,31.54,-104.157,0.0,2026-01-14
+2.9,"38 km W of Carlsbad, New Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rptn,32.4737,-104.629,5.0,2026-01-14
+1.64,"10 km SSE of Cabazon, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41158183,33.8311666666667,-116.745833333333,12.77,2026-01-14
+1.04,"2 km S of Borrego Springs, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41158175,33.2356666666667,-116.372,10.76,2026-01-14
+5.9,"271 km ESE of Attu Station, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rptl,51.7477,176.7452,41.324,2026-01-14
+2.1,"12 km ENE of Midland, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2026bajump,32.037,-101.95,2.3926,2026-01-14
+3.5,"33 km SSE of Hope, New Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpti,32.5167,-104.6519,5.0,2026-01-14
+0.89,"12 km ENE of Borrego Springs, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41158159,33.3026666666667,-116.259666666667,4.71,2026-01-14
+1.9,"6 km NNE of Lazy Mountain, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026bajjlb,61.672,-148.885,27.2,2026-01-14
+4.9,"17 km W of Villa Basilio Nievas, Argentina",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpt9,-31.5493,-68.9213,108.324,2026-01-14
+2.4,"26 km WSW of Point MacKenzie, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026baitkv,61.279,-150.45,37.0,2026-01-14
+1.36,"1 km NNW of Middletown, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75296036,38.7578315734863,-122.618835449219,7.17999982833862,2026-01-14
+0.81,"9 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75296031,38.8250007629395,-122.841499328613,1.62000000476837,2026-01-14
+1.54,"22 km NE of San Ardo, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75296026,36.1800003051758,-120.767997741699,1.03999996185303,2026-01-14
+1.82,"28 km NE of Hawaiian Paradise Park, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74876212,19.7770004272461,-154.778671264648,16.6900005340576,2026-01-14
+2.5,"16 km NNE of Susitna, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026bagukh,61.682,-150.408,23.9,2026-01-14
+1.43,"19 km WNW of Winters, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75296021,38.5608329772949,-122.180000305176,3.03999996185303,2026-01-14
+1.81,"57 km E of Goldfield, Nevada",https://earthquake.usgs.gov/earthquakes/eventpage/nn00909533,37.6884,-116.586,5.6428,2026-01-14
+3.22,"55 km NE of Valmy, Nevada",https://earthquake.usgs.gov/earthquakes/eventpage/nn00909531,41.1647,-116.6882,12.4177,2026-01-14
+1.59,"19 km W of Winters, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75296016,38.5553321838379,-122.19100189209,3.14000010490417,2026-01-14
+2.13,"13 km S of Guánica, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr71505188,17.8523333333333,-66.9243333333333,5.16,2026-01-14
+1.53,"20 km WNW of Winters, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75296011,38.5615005493164,-122.190170288086,5.82999992370605,2026-01-14
+4.3,"6 km N of ‘Ar‘ara BaNegev, Israel",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpsw,31.2167,35.016,10.0,2026-01-14
+1.0,"16 km WSW of Johannesburg, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41158135,35.3433333333333,-117.810333333333,7.69,2026-01-14
+2.1,"31 km W of Nanwalek, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026bafsun,59.325,-152.474,72.3,2026-01-14
+0.45,"8 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75296001,38.8310012817383,-122.818496704102,1.96000003814697,2026-01-14
+3.7,"47 km SW of Skwentna, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026bafbdh,61.67,-151.983,101.2,2026-01-14
+2.0,"51 km S of Whites City, New Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/tx2026bafabl,31.715,-104.277,4.6427,2026-01-14
+0.85,"4 km SW of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74876122,19.4076666666667,-155.2605,-0.15,2026-01-14
+0.72,"8 km WNW of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295986,38.8356666564941,-122.809501647949,1.75999999046326,2026-01-14
+0.83,"6 km SW of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74876117,19.4013333333333,-155.272833333333,1.36,2026-01-14
+1.4,"23 km SE of Chickaloon, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026baeuvx,61.663,-148.114,20.5,2026-01-14
+1.96,"55 km SE of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74876112,18.8584995269775,-155.100830078125,17.1700000762939,2026-01-14
+1.06,"5 km SSW of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74876102,19.3981666666667,-155.259333333333,0.67,2026-01-14
+2.07,"24 km ENE of San Ardo, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295981,36.0681648254395,-120.640663146973,-0.720000028610229,2026-01-14
+1.96,"5 km SW of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74876072,19.4085006713867,-155.27082824707,1.79999995231628,2026-01-14
+1.84,"6 km SW of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74876052,19.4048328399658,-155.275161743164,1.12000000476837,2026-01-14
+2.71,"14 km ESE of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74876057,19.1749992370605,-155.34733581543,28.7000007629395,2026-01-14
+1.73,"5 km SW of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74876047,19.4025,-155.2675,2.86,2026-01-14
+1.5,"58 km N of Petersville, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026baebnw,63.024,-150.7,107.8,2026-01-14
+1.86,"8 km SW of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74876032,19.3926666666667,-155.2935,5.92,2026-01-14
+1.54,"5 km SW of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74876027,19.4011666666667,-155.265333333333,1.99,2026-01-14
+1.6,"45 km W of Karluk, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026badwtu,57.639,-155.197,72.1,2026-01-14
+1.68,"5 km SW of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74876017,19.4073333333333,-155.269833333333,3.3,2026-01-14
+1.67,"5 km SW of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74876012,19.4071666666667,-155.273666666667,2.3,2026-01-14
+1.9,"71 km E of Port Alsworth, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026badtzt,60.172,-153.033,145.0,2026-01-14
+1.83,"5 km SW of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74876007,19.4055,-155.268833333333,2.05,2026-01-14
+1.8,"5 km SW of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74876002,19.4046666666667,-155.271,2.0,2026-01-14
+5.1,"16 km WNW of Shiojiri, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rps1,36.1555,137.7938,6.739,2026-01-14
+1.96,"5 km SW of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74875997,19.4015007019043,-155.266159057617,2.00999999046326,2026-01-14
+1.71,"5 km SW of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74875992,19.4143333333333,-155.277333333333,2.0,2026-01-14
+1.71,"6 km SW of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74875987,19.4023333333333,-155.28,2.34,2026-01-14
+1.66,"5 km SW of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74875982,19.401,-155.267,2.29,2026-01-14
+1.63,"6 km SW of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74875977,19.4015,-155.2715,1.58,2026-01-14
+1.68,"5 km SW of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74875972,19.4081666666667,-155.268166666667,3.21,2026-01-14
+4.7,"23 km WSW of Hotaka, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpry,36.2972,137.6272,6.697,2026-01-14
+2.5,"87 km ESE of Ugashik, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026badktg,57.333,-155.987,74.5,2026-01-14
+1.82,"6 km SW of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74875967,19.4058333333333,-155.278333333333,2.15,2026-01-14
+2.0,"11 km NNW of Larsen Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026baditu,57.64,-154.016,0.0,2026-01-14
+0.91,"10 km WNW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295976,38.8214988708496,-122.851669311523,2.84999990463257,2026-01-14
+1.45,"4 km SW of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74875962,19.4098333333333,-155.2645,2.8,2026-01-14
+1.9,"50 km ESE of Pedro Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026baczwf,59.588,-153.301,106.2,2026-01-14
+1.8,"33 km NW of Willow, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026bacyve,61.989,-150.409,13.7,2026-01-14
+2.68,"1 km SW of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74875947,19.191499710083,-155.492172241211,30.3600006103516,2026-01-14
+2.1,"12 km N of Cantwell, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026bacpvj,63.505,-148.96,5.0,2026-01-14
+1.18,"6 km SW of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74875937,19.406,-155.2795,2.53,2026-01-14
+0.74,"2 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295966,38.7895011901855,-122.77766418457,1.74000000953674,2026-01-14
+2.09,"4 km SSW of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74875897,19.1630001068115,-155.498168945312,32.6300010681152,2026-01-14
+0.69,"9 km ENE of Villa Park, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41158127,33.834,-117.722166666667,7.47,2026-01-14
+1.68,"12 km SW of Salton City, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41158119,33.2346666666667,-116.059166666667,3.36,2026-01-14
+1.92,"24 km ENE of San Ardo, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295961,36.0653343200684,-120.638496398926,2.82999992370605,2026-01-14
+1.15,"5 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295951,38.8110008239746,-122.797836303711,3.1800000667572,2026-01-14
+1.58,"5 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295946,38.8148345947266,-122.796333312988,3.34999990463257,2026-01-14
+1.32,"5 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295941,38.814998626709,-122.795997619629,3.30999994277954,2026-01-14
+1.29,"5 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295936,38.814998626709,-122.795333862305,3.10999989509583,2026-01-14
+1.32,"5 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295931,38.814998626709,-122.796165466309,3.26999998092651,2026-01-14
+1.68,"3 km SE of Pacifica, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295926,37.5973320007324,-122.466835021973,9.34000015258789,2026-01-14
+0.78,"6 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295921,38.8146667480469,-122.798164367676,2.67000007629395,2026-01-14
+0.81,"6 km N of Lofall, Washington",https://earthquake.usgs.gov/earthquakes/eventpage/uw62214347,47.87133333333333,-122.64116666666666,22.77,2026-01-14
+1.4,"78 km W of Karluk, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026azzlit,57.697,-155.742,39.1,2026-01-14
+1.8,"41 km NNE of Whittier, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026azzjaz,61.131,-148.481,24.5,2026-01-14
+5.1,southeast of Easter Island,https://earthquake.usgs.gov/earthquakes/eventpage/us7000rprk,-35.3849,-102.5712,10.0,2026-01-14
+2.2,"9 km W of Loyal, Oklahoma",https://earthquake.usgs.gov/earthquakes/eventpage/ok2026azvz,35.96683333,-98.22733333,6.4,2026-01-14
+0.8,"25 km SSW of Minto, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026azyzjh,64.925,-149.466,22.7,2026-01-14
+2.2,"32 km WNW of Ninilchik, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026azytvn,60.204,-152.159,73.9,2026-01-14
+0.78,"36 km ENE of Amboy, Washington",https://earthquake.usgs.gov/earthquakes/eventpage/uw62214342,46.091,-122.05933333333333,8.96,2026-01-14
+2.51,"11 km E of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74875832,19.1948337554932,-155.369827270508,30.8999996185303,2026-01-14
+2.0,"4 km N of Houston, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026azygat,61.669,-149.827,15.3,2026-01-14
+2.29,"10 km E of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74875822,19.1901664733887,-155.376007080078,30.3999996185303,2026-01-14
+4.3,"Izu Islands, Japan region",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpra,29.9713,138.9382,441.354,2026-01-14
+1.77,"6 km SSW of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74875777,19.1466674804688,-155.497161865234,30.1800003051758,2026-01-14
+2.2,"109 km NNW of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026aztpdw,60.489,-140.31,0.0,2026-01-14
+0.97,"12 km ESE of Coso Junction, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41158079,36.0201666666667,-117.817,1.51,2026-01-14
+1.84,"11 km SSE of Maria Antonia, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr71505178,17.8918333333333,-66.8366666666667,11.14,2026-01-14
+1.0,"46 km NW of Karluk, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026azthtq,57.887,-154.963,78.4,2026-01-14
+1.12,"15 km WNW of Searles Valley, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41158063,35.8083333333333,-117.564666666667,5.93,2026-01-14
+2.8,"119 km SSE of Sand Point, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rps4,54.4025,-159.5934,35.0,2026-01-14
+1.09,"6 km WNW of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295866,38.8330001831055,-122.791496276855,1.74000000953674,2026-01-14
+2.6,"55 km ENE of Port Alsworth, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026azstde,60.346,-153.359,168.9,2026-01-14
+3.0,"96 km N of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpqz,60.4065,-139.4715,5.0,2026-01-14
+1.3,"13 km E of Fox, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026azslrp,64.981,-147.344,5.0,2026-01-14
+2.5,"42 km ENE of Pedro Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026azskhi,59.93,-153.401,136.9,2026-01-14
+0.76,"8 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295851,38.832332611084,-122.81916809082,1.76999998092651,2026-01-14
+1.35,"16 km WSW of Johannesburg, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41158007,35.344,-117.810166666667,6.95,2026-01-14
+0.38,"5 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295846,38.813835144043,-122.795333862305,1.14999997615814,2026-01-14
+4.9,"223 km SSE of Isangel, Vanuatu",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpqs,-21.3604,170.2212,110.919,2026-01-14
+1.9,"6 km NNE of Susitna, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026azriml,61.599,-150.456,53.6,2026-01-14
+1.88,"1 km ENE of Cayey, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr71505168,18.1163333333333,-66.1536666666667,25.62,2026-01-14
+1.75,"2 km E of Cayey, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr71505153,18.1098333333333,-66.1426666666667,25.51,2026-01-14
+1.01,"9 km ENE of Cabazon, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41157999,33.9466666666667,-116.695333333333,11.71,2026-01-14
+1.48,"1 km SSE of Amboy, Washington",https://earthquake.usgs.gov/earthquakes/eventpage/uw62214322,45.896166666666666,-122.43483333333333,-0.51,2026-01-14
+0.87,"3 km WNW of Langford, Canada",https://earthquake.usgs.gov/earthquakes/eventpage/uw62214317,48.4685,-123.54533333333333,-0.21,2026-01-14
+5.0,"282 km S of Dunhuang, China",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpqr,37.6477,95.1441,10.0,2026-01-14
+1.4,"47 km WNW of Beluga, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026azqpet,61.344,-151.851,90.7,2026-01-14
+0.7,"14 km NNE of Ocotillo Wells, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41157967,33.2608333333333,-116.095333333333,10.23,2026-01-14
+1.3800000000000001,"8 km ENE of Abbotsford, Canada",https://earthquake.usgs.gov/earthquakes/eventpage/uw62214312,49.097833333333334,-122.153,-0.5,2026-01-14
+3.1,"10 km NNE of Carrizales, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr71505138,18.5791666666667,-66.7688333333333,14.36,2026-01-14
+1.56,"4 km SE of Home Gardens, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41157943,33.8456666666667,-117.493666666667,1.89,2026-01-14
+1.7,"10 km W of Ninilchik, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026azoxzo,60.068,-151.862,67.0,2026-01-14
+3.1,"44 km SE of Chignik, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026azoxoi,56.063,-157.82,52.7,2026-01-14
+5.6,"64 km ESE of Akkeshi, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpq8,42.7295,145.5273,11.617,2026-01-14
+1.91,"13 km SW of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74875602,19.3473339080811,-155.316833496094,29.2700004577637,2026-01-14
+1.49,"8 km WNW of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295826,38.8354988098145,-122.80916595459,2.05999994277954,2026-01-14
+2.5,"64 km SE of Denali National Park, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026aznzqa,63.107,-150.884,125.9,2026-01-14
+1.6,"2 km ENE of Lindsay, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2026aznxja,31.376,-103.511,6.3472,2026-01-14
+0.97,"2 km E of San Jacinto, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41157903,33.7835,-116.931666666667,13.08,2026-01-14
+1.12,"1 km ENE of San Jacinto, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41157895,33.7865,-116.946333333333,12.69,2026-01-14
+1.1,"6 km WNW of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295821,38.8358345031738,-122.785331726074,2.13000011444092,2026-01-14
+1.0,"83 km NNW of Karluk, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026aznmwz,58.272,-154.942,5.0,2026-01-14
+0.99,"9 km ENE of Cabazon, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41157887,33.9453333333333,-116.6955,11.79,2026-01-14
+1.75,"5 km SW of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74875577,19.1655006408691,-155.511993408203,29.6800003051758,2026-01-14
+0.58,"9 km N of Anza, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41157871,33.6326666666667,-116.685,13.64,2026-01-14
+2.0,"1 km NNW of Houston, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026azmyxp,61.64,-149.83,27.9,2026-01-14
+4.5,"93 km SSE of Atka, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026azmsof,51.468,-173.531,41.3,2026-01-14
+-0.06,"62 km ENE of Pedro Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93994691,60.0333333333333,-153.093166666667,-0.12,2026-01-14
+2.21,"3 km NE of Blackhawk, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295796,37.8358345031738,-121.88200378418,4.17000007629395,2026-01-14
+0.68,"6 km WNW of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295791,38.8371658325195,-122.792167663574,2.09999990463257,2026-01-14
+2.14,"13 km ESE of Angwin, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295786,38.5478324890137,-122.301170349121,4.1399998664856,2026-01-14
+5.1,Kuril Islands,https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpp8,47.8449,154.8258,10.0,2026-01-14
+2.31,"11 km E of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74875532,19.1933333333333,-155.372666666667,29.51,2026-01-14
+0.94,"6 km E of Desert Hot Springs, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41157759,33.955,-116.438666666667,5.47,2026-01-14
+4.2,"133 km NNW of Finschhafen, Papua New Guinea",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpp4,-5.4826,147.3023,220.523,2026-01-14
+1.9,"18 km NW of Toyah, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2026azlcmp,31.447,-103.909,5.6091,2026-01-14
+-0.8,"63 km ENE of Pedro Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93994641,60.0453333333333,-153.086166666667,-1.53,2026-01-14
+0.08,"84 km ENE of Akutan, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93054534,54.5381666666667,-164.675166666667,4.17,2026-01-14
+0.21,"79 km W of Karluk, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93994636,57.5708333333333,-155.775666666667,5.0,2026-01-14
+1.31,"5 km W of Dutch Harbor, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93994621,53.8975,-166.625,8.43,2026-01-14
+1.08,"4 km W of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295771,38.8228340148926,-122.766334533691,2.1800000667572,2026-01-14
+0.97,"6 km SW of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74875472,19.3938333333333,-155.270833333333,3.06,2026-01-14
+0.23,"8 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295766,38.8240013122559,-122.823501586914,0.389999985694885,2026-01-14
+1.2,"13 km NNE of Borrego Springs, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41157679,33.356,-116.309666666667,14.77,2026-01-14
+1.49,"4 km SW of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74875437,19.4176666666667,-155.272333333333,3.19,2026-01-14
+1.84,"4 km NW of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74875432,19.473,-155.258833333333,2.66,2026-01-14
+1.09,"4 km SE of Pacifica, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295761,37.591667175293,-122.454002380371,7.07000017166138,2026-01-14
+1.69,"5 km WNW of Dutch Harbor, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93994596,53.9001666666667,-166.619,8.05,2026-01-14
+1.32,"5 km SW of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74875412,19.4033333333333,-155.269333333333,1.37,2026-01-14
+1.6,"59 km S of Whites City, New Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/tx2026azjeci,31.641,-104.446,4.8722,2026-01-14
+1.46,"6 km SW of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74875402,19.3926666666667,-155.274333333333,1.97,2026-01-14
+0.7,"5 km W of Dutch Harbor, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93994581,53.8975,-166.623833333333,7.73,2026-01-14
+1.61,"6 km SW of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74875392,19.4085,-155.279,2.88,2026-01-14
+2.03,"20 km SSE of Honaunau-Napoopoo, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74875382,19.2894992828369,-155.787994384766,-1.79999995231628,2026-01-14
+0.61,"8 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295756,38.8325004577637,-122.817497253418,1.61000001430511,2026-01-14
+1.1,"5 km W of Dutch Harbor, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93994556,53.8988333333333,-166.6235,8.33,2026-01-14
+0.72,"55 km WNW of Nikiski, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93994546,60.958,-152.150333333333,6.0,2026-01-14
+-0.3,"15 km WSW of Akutan, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93054524,54.0736666666667,-165.992333333333,3.79,2026-01-14
+2.2,"53 km WNW of Nanwalek, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026azhqqq,59.544,-152.79,95.8,2026-01-14
+1.5,"23 km WNW of Valdez, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026azhheo,61.231,-146.731,34.6,2026-01-14
+1.48,"16 km WSW of Johannesburg, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41157591,35.3363333333333,-117.805833333333,6.5,2026-01-14
+0.55,"51 km NE of King Cove, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93054479,55.4258333333333,-161.833833333333,5.01,2026-01-14
+1.53,"23 km N of Shasta Lake, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295746,40.8888320922852,-122.363166809082,10.2700004577637,2026-01-14
+-0.21,"50 km NE of King Cove, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93994496,55.3895,-161.771833333333,8.64,2026-01-14
+-0.81,"16 km WSW of Dutch Harbor, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93054519,53.8556666666667,-166.784666666667,10.19,2026-01-14
+1.33,"8 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295741,38.8313331604004,-122.817497253418,1.64999997615814,2026-01-14
+4.9,"70 km WNW of Tobelo, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpnj,1.9005,127.4025,112.096,2026-01-14
+0.16,"51 km NE of King Cove, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93994461,55.3611666666667,-161.694666666667,2.68,2026-01-14
+0.69,"8 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295726,38.8328323364258,-122.818664550781,1.38999998569489,2026-01-14
+0.5,"49 km NE of King Cove, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93054464,55.372,-161.760333333333,10.32,2026-01-14
+0.75,"3 km W of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295716,38.8253326416016,-122.759330749512,1.6599999666214,2026-01-14
+1.89,"18 km SW of Ludlow, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41157535,34.6015,-116.291333333333,7.32,2026-01-14
+0.82,"5 km NNW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295711,38.8134994506836,-122.786163330078,1.96000003814697,2026-01-14
+5.0,"197 km ENE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpnf,53.6006,161.4594,10.0,2026-01-14
+5.0,central Mid-Atlantic Ridge,https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpne,0.3891,-25.1111,10.0,2026-01-14
+0.18,"50 km NE of King Cove, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93994446,55.3585,-161.726333333333,-1.36,2026-01-14
+0.61,"51 km NE of King Cove, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93994431,55.3573333333333,-161.695,-0.53,2026-01-14
+1.7,"18 km WNW of Hope, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026azehxf,60.978,-149.959,33.6,2026-01-14
+2.0,"28 km NW of Toyah, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2026azebrw,31.48,-104.022,4.3054,2026-01-14
+1.7,"4 km SSW of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74875262,19.1653333333333,-155.495333333333,33.5,2026-01-14
+1.06,"6 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295681,38.8183326721191,-122.796165466309,2.24000000953674,2026-01-14
+1.6,"4 km WSW of Guánica, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr71505133,17.9611666666667,-66.9488333333333,7.7,2026-01-14
+0.9,"11 km WSW of Stanton, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2026azdkyq,32.097,-101.905,6.4209,2026-01-14
+1.72,"9 km S of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74875247,19.1201667785645,-155.482666015625,36.8600006103516,2026-01-14
+2.52,"18 km ESE of Anderson, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295666,40.3713340759277,-122.117164611816,15.3100004196167,2026-01-14
+4.5,south of the Fiji Islands,https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpn6,-23.6127,179.7631,535.13,2026-01-14
+1.9,"4 km SSW of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74875242,19.1611666666667,-155.496333333333,33.58,2026-01-14
+1.4,"88 km SSE of Kokhanok, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026azctld,58.682,-154.319,15.9,2026-01-14
+0.73,"1 km NNE of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295661,38.7866668701172,-122.749000549316,-0.550000011920929,2026-01-14
+0.03,"52 km NE of King Cove, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93054489,55.3993333333333,-161.745833333333,7.46,2026-01-14
+1.9,"48 km SSE of Denali National Park, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026azcjho,63.134,-151.398,1.3,2026-01-14
+2.94,"20 km W of Winters, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295656,38.5584983825684,-122.192169189453,4.84999990463257,2026-01-14
+1.46,"20 km WNW of Winters, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295651,38.5646667480469,-122.189498901367,6.65000009536743,2026-01-14
+2.17,"9 km W of Loyal, Oklahoma",https://earthquake.usgs.gov/earthquakes/eventpage/ok2026ayyt,35.968,-98.2215,6.77,2026-01-14
+-0.13,"15 km NE of Ashford, Washington",https://earthquake.usgs.gov/earthquakes/eventpage/uw62214257,46.870666666666665,-121.918,10.34,2026-01-14
+2.1,"52 km E of Ugashik, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026azblja,57.567,-156.523,101.8,2026-01-14
+0.79,"3 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295641,38.8023338317871,-122.779998779297,3.04999995231628,2026-01-14
+1.38,"2 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295636,38.7936668395996,-122.775169372559,1.82000005245209,2026-01-14
+5.1,"119 km N of Lae, Papua New Guinea",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpmy,-5.6511,147.12,172.746,2026-01-14
+1.5,"3 km SSE of Leilani Estates, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74875187,19.4418333333333,-154.9085,6.76,2026-01-14
+1.7,"43 km NW of Toyah, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2026azaokq,31.608,-104.105,6.0999,2026-01-14
+2.0,"8 km W of Anchorage, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026azaayy,61.208,-150.056,40.2,2026-01-14
+1.07,"51 km NE of King Cove, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93994271,55.3585,-161.692,5.89,2026-01-14
+4.9,"70 km SSE of Maumere, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rple,-9.2123,122.4579,88.874,2026-01-14
+1.51,"63 km WSW of Nikolski, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93054509,52.7001666666667,-169.721166666667,8.81,2026-01-14
+1.7,"86 km NW of Karluk, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026ayznvu,58.18,-155.365,0.0,2026-01-14
+2.2,"63 km E of Chase, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026ayzksg,62.54,-148.878,46.4,2026-01-14
+0.39,"5 km NNW of Dutch Harbor, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93054499,53.9398333333333,-166.563833333333,7.6,2026-01-14
+0.23,"9 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295631,38.8219985961914,-122.842002868652,2.07999992370605,2026-01-14
+-0.09,"67 km ENE of Pedro Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93994221,60.0853333333333,-153.063666666667,0.32,2026-01-14
+1.8,"81 km SE of Kokhanok, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026ayydfr,58.846,-153.952,2.3,2026-01-14
+0.43,"19 km NNE of Amboy, Washington",https://earthquake.usgs.gov/earthquakes/eventpage/uw62214242,46.08583333333333,-122.39216666666667,16.57,2026-01-14
+-0.89,"79 km NW of Ninilchik, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93994201,60.5051666666667,-152.777666666667,6.32,2026-01-14
+1.27,"11 km WNW of Calipatria, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41157431,33.1793333333333,-115.6155,2.66,2026-01-14
+0.94,"53 km NE of King Cove, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93994196,55.4576666666667,-161.848833333333,6.68,2026-01-14
+2.0,"73 km W of Karluk, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026ayxkrl,57.55,-155.686,75.2,2026-01-14
+2.5,"98 km ESE of Ugashik, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026ayxgwz,57.145,-155.909,58.4,2026-01-14
+1.67,"4 km SSW of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74875052,19.1693333333333,-155.495,32.25,2026-01-14
+1.79,"2 km N of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74875042,19.224,-155.478833333333,28.86,2026-01-14
+4.9,Easter Island region,https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpl3,-29.73,-111.8892,10.0,2026-01-14
+0.27,"13 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295626,38.8426666259766,-122.874664306641,2.49000000953674,2026-01-14
+3.5,"15 km N of El Tuito, Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpll,20.4569,-105.3413,10.0,2026-01-14
+2.3,"5 km SW of Nanwalek, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026aywwzy,59.32,-151.978,41.8,2026-01-14
+2.78,"4 km SSW of Pāhala, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74875037,19.1686666666667,-155.496,32.98,2026-01-14
+1.23,"9 km NNE of Julian, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41157407,33.1453333333333,-116.550833333333,11.37,2026-01-14
+1.39,"4 km WSW of Clear Creek, Utah",https://earthquake.usgs.gov/earthquakes/eventpage/uu80127401,39.6251666666667,-111.202166666667,-3.29,2026-01-14
+1.83,"4 km WNW of Volcano, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74874987,19.457332611084,-155.272659301758,6.03000020980835,2026-01-14
+1.38,"9 km NE of Julian, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41157391,33.1425,-116.546,5.97,2026-01-14
+0.0,"50 km NE of King Cove, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93054474,55.3923333333333,-161.777333333333,3.48,2026-01-14
+-0.2,"49 km NE of King Cove, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93054469,55.3831666666667,-161.7805,-2.16,2026-01-14
+1.05,"55 km NE of King Cove, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93994116,55.3903333333333,-161.659333333333,7.03,2026-01-14
+0.86,"2 km SE of Pacifica, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295606,37.5968322753906,-122.46883392334,11.2700004577637,2026-01-14
+0.94,"6 km WSW of Beaumont, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41157367,33.9066666666667,-117.041333333333,14.74,2026-01-14
+0.82,"6 km WSW of Beaumont, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41157359,33.909,-117.0395,14.23,2026-01-14
+1.25,"2 km ENE of Calimesa, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41157351,33.992,-117.035333333333,13.68,2026-01-14
+1.3,"22 km SE of Lindsay, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ayuaql,31.257,-103.343,5.9204,2026-01-14
+4.0,"4 km NNE of Santa Lucía Cotzumalguapa, Guatemala",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpl4,14.3749,-91.005,10.0,2026-01-14
+1.58,"17 km WSW of Johannesburg, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41157343,35.3375,-117.8125,7.27,2026-01-14
+1.23,"5 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295601,38.8161659240723,-122.793334960938,3.26999998092651,2026-01-14
+0.02,"46 km NE of King Cove, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93994066,55.3496666666667,-161.7935,-2.97,2026-01-14
+0.07,"51 km NE of King Cove, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93054459,55.3773333333333,-161.738666666667,9.3,2026-01-14
+0.71,"11 km NNE of Trabuco Canyon, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41157335,33.7496666666667,-117.542833333333,6.45,2026-01-14
+0.17,"53 km SE of Egegik, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93994056,57.858,-156.767,14.47,2026-01-14
+2.5,"108 km NNW of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpkr,60.5067,-140.1048,5.0,2026-01-14
+2.1,"35 km ENE of Chase, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2026ayslud,62.53,-149.44,5.0,2026-01-14
+0.18,"53 km NE of King Cove, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/av93054454,55.3846666666667,-161.7015,6.04,2026-01-14
+1.08,"4 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295586,38.8059997558594,-122.789329528809,0.430000007152557,2026-01-14
+0.76,"7 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295581,38.8133316040039,-122.817169189453,2.64000010490417,2026-01-14
+0.66,"8 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295576,38.8310012817383,-122.814163208008,1.30999994277954,2026-01-14
+0.97,"7 km NW of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295571,38.8146667480469,-122.817169189453,2.95000004768372,2026-01-14
+0.86,"9 km WNW of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295566,38.84716796875,-122.816329956055,1.79999995231628,2026-01-14
+1.56,"8 km WNW of Cobb, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75295561,38.8461685180664,-122.814163208008,1.73000001907349,2026-01-14
+1.45,"4 km SE of Ontario, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41157327,34.0293333333333,-117.598,5.38,2026-01-14
+2.3,"58 km SE of Akutan, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rpla,53.7271,-165.2095,53.837,2026-01-14
+2.41,"5 km NE of Belfair, Washington",https://earthquake.usgs.gov/earthquakes/eventpage/uw61504928,47.491,-122.775,26.76,2026-01-14
+2.37,"5 km SW of Gorst, Washington",https://earthquake.usgs.gov/earthquakes/eventpage/uw62214237,47.489,-122.75083333333333,26.33,2026-01-14
+-0.12,"12 km SSE of Anza, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41157319,33.4645,-116.611,9.79,2026-01-14

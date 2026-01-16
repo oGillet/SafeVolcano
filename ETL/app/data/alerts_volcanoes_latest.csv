@@ -1,14 +1,29 @@
 Name,observatory_level,aviation_level,date
-Dukono,Level 2 - Alert,unavailable or not collected Source,2026-01-14
-Ibu,Level 2 - Alert,unavailable or not collected Source,2026-01-14
-Lewotobi,Level 3 - Standby,unavailable or not collected Source,2026-01-14
-Lewotolok,Level 2 - Alert,unavailable or not collected Source,2026-01-14
-Marapi,Level 2 - Alert,unavailable or not collected Source,2026-01-14
-Merapi,Level 3 - Standby,unavailable or not collected Source,2026-01-14
-Popocatépetl,Yellow Alert - Phase 2,unavailable or not collected Source,2026-01-14
-Puracé,Orange,unavailable or not collected Source,2026-01-14
-Reventador,3 - Orange,unavailable or not collected Source,2026-01-14
-Sabancaya,Orange,unavailable or not collected Source,2026-01-14
-Sangay,2 - Yellow,unavailable or not collected Source,2026-01-14
-Semeru,Level 3 - Standby,unavailable or not collected Source,2026-01-14
-Kerinci,Level 2 - Alert,unavailable or not collected Source,2026-01-14
+Dukono,Level 2 - Alert,unavailable or not collected Source,2026-01-15
+Great Sitkin,Watch,Orange,2026-01-15
+Ibu,Level 2 - Alert,unavailable or not collected Source,2026-01-15
+Kīlauea,Watch,Orange,2026-01-15
+Kanlaon,2 - Moderate Level of Volcanic Unrest,unavailable or not collected Source,2026-01-15
+Lewotobi,Level 3 - Standby,unavailable or not collected Source,2026-01-15
+Lewotolok,Level 2 - Alert,unavailable or not collected Source,2026-01-15
+Marapi,Level 2 - Alert,unavailable or not collected Source,2026-01-15
+Mayon,3 - Increased Tendency Towards Hazardous Eruption,unavailable or not collected Source,2026-01-15
+Merapi,Level 3 - Standby,unavailable or not collected Source,2026-01-15
+Popocatépetl,Yellow Alert - Phase 2,unavailable or not collected Source,2026-01-15
+Puracé,Orange,unavailable or not collected Source,2026-01-15
+Reventador,3 - Orange,unavailable or not collected Source,2026-01-15
+Sabancaya,Orange,unavailable or not collected Source,2026-01-15
+Sangay,2 - Yellow,unavailable or not collected Source,2026-01-15
+Semeru,Level 3 - Standby,unavailable or not collected Source,2026-01-15
+Taal,1 - Low-Level Unrest,unavailable or not collected Source,2026-01-15
+Bur ni Telong,Level 2 - Alert,unavailable or not collected Source,2026-01-15
+Iliwerung,Level 2 - Alert,unavailable or not collected Source,2026-01-15
+Karangetang,Level 2 - Alert,unavailable or not collected Source,2026-01-15
+Kerinci,Level 2 - Alert,unavailable or not collected Source,2026-01-15
+Pavlof,Advisory,Yellow,2026-01-15
+Shishaldin,Advisory,Yellow,2026-01-15
+Talang,Level 2 - Alert,unavailable or not collected Source,2026-01-15
+Aniakchak,Unassigned,Unassigned,2026-01-15
+Egon,Level 1 - Normal,unavailable or not collected Source,2026-01-15
+Huaynaputina,Green,unavailable or not collected Source,2026-01-15
+Tangkuban Parahu,Level 1 - Normal,unavailable or not collected Source,2026-01-15
